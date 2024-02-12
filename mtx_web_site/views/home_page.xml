@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+	<template id="home_page" name="Home">
+		<t t-call="website.layout">
+			<div id="wrap" class="oe_structure oe_empty">
+				<section class="s_cover bg-black-50 o_colored_level s_parallax_no_overflow_hidden pt72 pb72 o_half_screen_height oe_img_bg o_bg_img_center" data-scroll-background-ratio="0" data-snippet="s_cover" data-name="Cover" style="background-image: url(&quot;/web/image/309-1d029a8b/person-front-computer-working-html.webp&quot;); position: relative;" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Wavy/28&quot;,&quot;colors&quot;:{&quot;c1&quot;:&quot;#4A1031&quot;,&quot;c3&quot;:&quot;#003163&quot;},&quot;flip&quot;:[],&quot;showOnMobile&quot;:true,&quot;animated&quot;:&quot;true&quot;}" data-mimetype-before-conversion="image/jpeg" data-mimetype="image/webp" data-original-id="245" data-original-src="/web/image/245-5ac68ac7/person-front-computer-working-html.jpg" data-resize-width="1920">
+					<div class="o_we_shape o_web_editor_Wavy_28 o_we_animated o_shape_show_mobile bg-o-color-5" style="background-image: url(&quot;/web_editor/shape/web_editor%2FWavy%2F28.svg?c1=%234A1031&amp;c3=%23003163&quot;);" />
+					<div class="s_allow_columns container">
+						<div class="row o_grid_mode" data-row-count="8">
+							<div class="o_colored_level o_grid_item g-height-8 g-col-lg-7 col-lg-7" style="grid-area: 1 / 1 / 9 / 8; z-index: 1;">
+								<h1 class="display-3" style="text-align: left; font-weight: bold;">
+									<span class="o_animated_text o_animate o_anim_slide_in o_anim_from_right o_visible" style="">
+										MTechniix,
+									</span>
+									&amp;nbsp;
+								</h1>
+								<h1 class="display-3" style="text-align: left; font-weight: bold;">
+									<span class="o_animated_text o_animate o_anim_slide_in o_anim_from_right o_visible" style="">
+										Soyez maître de votre avenir numérique.
+									</span>
+								</h1>
+								<p class="lead" style="text-align: left;">
+									<span class="o_animated_text o_animate o_anim_fade_in o_visible" style="">
+										Write one or two paragraphs describing your product, services or a specific feature.
+										<br />
+										To be successful your content needs to be useful to your readers.
+									</span>
+								</p>
+								<p style="text-align: left;">
+									<a class="btn btn-outline-light" href="/contactus" data-bs-original-title="" title="">
+										<span class="o_animated_text o_animate o_anim_fade_in o_visible" style="">
+											Découvrir nos services
+										</span>
+									</a>
+								</p>
+							</div>
+							<div class="o_grid_item o_grid_item_image o_colored_level g-height-8 g-col-lg-6 col-lg-6 o_animate o_visible o_anim_flip_in_x" style="z-index: 3; grid-area: 1 / 7 / 9 / 13;">
+								<img src="/web/image/311-57dbd8a1/Capture%2520d%25E2%2580%2599%25C3%25A9cran%2520du%25202024-01-25%252011-53-08.svg" alt="" class="img img-fluid o_we_custom_image mx-auto d-block" data-shape="web_editor/devices/iphone_3d_landscape_02" data-shape-colors=";;;;#F3F2F2" data-mimetype="image/svg+xml" data-original-id="310" data-original-src="/web/image/310-88aff12b/Capture%20d%E2%80%99%C3%A9cran%20du%202024-01-25%2011-53-08.png" data-mimetype-before-conversion="image/png" data-original-mimetype="image/webp" data-resize-width="690" data-file-name="Capture%20d%E2%80%99%C3%A9cran%20du%202024-01-25%2011-53-08.svg" loading="eager" />
+							</div>
+						</div>
+					</div>
+				</section>
+				<section class="s_text_image pt32 pb32 o_colored_level o_half_screen_height" data-snippet="s_text_image" data-name="Text - Image" style="background-image: none; position: relative;" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Airy/03_001&quot;,&quot;flip&quot;:[&quot;y&quot;],&quot;showOnMobile&quot;:false,&quot;animated&quot;:&quot;true&quot;}">
+					<div class="o_we_shape o_web_editor_Airy_03_001 o_we_animated" style="background-image: url(&quot;/web_editor/shape/web_editor%2FAiry%2F03_001.svg?c5=%23111827&amp;flip=y&quot;); background-position: 50% 100%;" />
+					<div class="container">
+						<div class="row align-items-start">
+							<div class="col-lg-6 pt16 pb16 o_colored_level">
+								<h2>
+									<font class="text-o-color-1">
+										<b>
+											<span class="o_animated_text o_animate o_anim_fade_in o_visible" style="">
+												Présentation de l'entreprise
+											</span>
+										</b>
+									</font>
+									<br />
+								</h2>
+								<p>
+									<span class="o_animated_text o_animate o_anim_fade_in o_visible" style="">
+										Fondée il y a quelques années, MTechniix a évolué pour devenir une référence dans le domaine de l'ERP Odoo, avec une histoire marquée par des succès significatifs et une croissance constante.
+									</span>
+								</p>
+								<p>
+									<span class="o_animated_text o_animate o_anim_fade_in o_visible" style="">
+										Depuis plus de 10 ans, nous avons été les pionniers de l'intégration et du développement Odoo, des créations de sites web et e-commerce exceptionnels, ainsi que la fourniture de solutions cloud et matériels de qualité.
+									</span>
+									<br />
+								</p>
+								<p>
+									<a href="#" class="btn btn-secondary" data-bs-original-title="" title="">
+										<span class="o_animated_text o_animate o_anim_fade_in o_visible" style="">
+											<font class="bg-o-color-2">
+												Learn more
+											</font>
+										</span>
+									</a>
+								</p>
+							</div>
+							<div class="col-lg-6 pt16 pb16 o_colored_level o_animate o_anim_slide_in o_anim_from_right o_visible" style="">
+								<img src="/web/image/303-fe96b591/developpeurs-reflechissent-idees-regardant-du-code-ecrans-ordinateur-demandant-commentaires-developpeur-senior-tandis-qu-stagiaire-se-joint-discussion-programmeurs-juniors-collaborant-projet-groupe.svg" alt="" class="img img-fluid mx-auto rounded o_we_custom_image" data-mimetype="image/svg+xml" data-original-id="209" data-original-src="/web/image/209-5e1d0ae0/developpeurs-reflechissent-idees-regardant-du-code-ecrans-ordinateur-demandant-commentaires-developpeur-senior-tandis-qu-stagiaire-se-joint-discussion-programmeurs-juniors-collaborant-projet-groupe.jpg" data-mimetype-before-conversion="image/jpeg" data-resize-width="690" loading="eager" data-shape="web_editor/geometric/geo_emerald" data-file-name="developpeurs-reflechissent-idees-regardant-du-code-ecrans-ordinateur-demandant-commentaires-developpeur-senior-tandis-qu-stagiaire-se-joint-discussion-programmeurs-juniors-collaborant-projet-groupe.svg" data-shape-colors=";;;;" data-original-mimetype="image/webp" />
+							</div>
+						</div>
+					</div>
+				</section>
+				<section class="s_title pt40 pb40 o_colored_level" data-vcss="001" data-snippet="s_title" data-name="Title" style="background-image: none;">
+					<div class="s_allow_columns container">
+						<h3 style="text-align: left;">
+							<strong>
+								<font class="text-o-color-1">
+									<span class="h2-fs">
+										<span class="o_animated_text o_animate o_anim_fade_in o_anim_from_bottom o_visible" style="">
+											Nos valeurs
+										</span>
+									</span>
+								</font>
+							</strong>
+						</h3>
+						<p style="text-align: left;">
+							<span class="o_animated_text o_animate o_anim_fade_in o_visible" style="">
+								Chez MTechniix, notre mission est claire : révolutionner la manière dont les entreprises opèrent numériquement. Nous nous engageons à fournir des solutions intégrées qui transcendent les attentes et favorisent la croissance de nos clients.
+							</span>
+							<br />
+						</p>
+					</div>
+				</section>
+				<section class="s_text_image pt32 pb32 o_colored_level" data-snippet="s_text_image" data-name="Text - Image" style="background-image: none; position: relative;" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Origins/09_001&quot;,&quot;colors&quot;:{&quot;c3&quot;:&quot;#E9ECEF&quot;},&quot;flip&quot;:[&quot;x&quot;],&quot;showOnMobile&quot;:false}">
+					<div class="o_we_shape o_web_editor_Origins_09_001" style="background-image: url(&quot;/web_editor/shape/web_editor%2FOrigins%2F09_001.svg?c3=%23E9ECEF&amp;flip=x&quot;); background-position: 50% 0%;" />
+					<div class="container">
+						<div class="row align-items-start">
+							<div class="col-lg-6 pt16 pb16 o_colored_level o_animate o_anim_zoom_out o_visible" style="">
+								<img src="/web/image/304-4a6573bc/cheerful-overjoyed-business-people-conference-room-celerating-diverse-colleagues-with-new-opportunity-enjoing-victory-meeting-broadroom-office.svg" alt="" class="img img-fluid mx-auto rounded o_we_custom_image" data-shape="web_editor/panel/panel_trio_in_r" data-shape-colors=";;;;" data-mimetype="image/svg+xml" data-original-id="302" data-original-src="/web/image/302-a0e3a975/cheerful-overjoyed-business-people-conference-room-celerating-diverse-colleagues-with-new-opportunity-enjoing-victory-meeting-broadroom-office.jpg" data-mimetype-before-conversion="image/jpeg" data-original-mimetype="image/webp" data-resize-width="690" data-file-name="cheerful-overjoyed-business-people-conference-room-celerating-diverse-colleagues-with-new-opportunity-enjoing-victory-meeting-broadroom-office.svg" loading="eager" />
+							</div>
+							<div class="col-lg-6 pt16 pb16 o_colored_level o_anim_fade_in o_animate o_anim_from_right o_visible" style="">
+								<h2>
+									<font class="text-o-color-1">
+										<b>
+											Expertise
+										</b>
+									</font>
+									&amp;nbsp;
+									<br />
+								</h2>
+								<p>
+									En tant qu'intégrateur Odoo, la maîtrise technique est cruciale. Nous valorisons l'expertise approfondie de notre&amp;nbsp;équipe dans le domaine des technologies numériques, garantissant ainsi des solutions fiables, sécurisées et évolutives pour nos clients.
+									<br />
+								</p>
+								<p>
+									<font class="text-o-color-1">
+										<b>
+											<span class="h2-fs">
+												Excellence
+											</span>
+										</b>
+									</font>
+								</p>
+								<p>
+									Placer la satisfaction du client au cœur de chaque projet est une valeur essentielle. Cela implique une écoute attentive des besoins du client, la fourniture de solutions sur mesure, et une attention particulière à la qualité du service tout au long du processus.
+								</p>
+								<p>
+									<font class="text-o-color-1">
+										<b>
+											<span class="h2-fs">
+												Agilité et Flexibilité
+											</span>
+										</b>
+									</font>
+									<br />
+								</p>
+								<p>
+									L'agilité dans l'approche des projets et la flexibilité pour s'adapter aux évolutions technologiques et aux besoins changeants des clients sont cruciales dans un environnement numérique en constante évolution.
+									<br />
+								</p>
+							</div>
+						</div>
+					</div>
+				</section>
+				<section class="s_text_block pb40 o_colored_level pt0" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+					<div class="s_allow_columns container">
+						<p class="o_default_snippet_text">
+							<br />
+						</p>
+						<p />
+						<h2>
+							<font class="text-o-color-1">
+								<b>
+									<span class="o_animated_text o_animate o_anim_fade_in o_anim_from_bottom" style="">
+										Nos services
+									</span>
+								</b>
+							</font>
+							<br />
+						</h2>
+						<p>
+							<span class="o_animated_text o_animate o_anim_fade_in" style="">
+								Chez MTechniix, notre mission est claire : révolutionner la manière dont les entreprises opèrent numériquement. Nous nous engageons à fournir des solutions intégrées qui transcendent les attentes et favorisent la croissance de nos clients.
+							</span>
+							<br />
+						</p>
+					</div>
+				</section>
+				<section class="s_three_columns o_cc o_cc2 pt32 pb32 o_colored_level" data-vcss="001" data-snippet="s_three_columns" data-name="Columns" style="background-image: none; position: relative;" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Wavy/07&quot;,&quot;colors&quot;:{&quot;c3&quot;:&quot;#E9ECEF&quot;},&quot;flip&quot;:[],&quot;showOnMobile&quot;:true}">
+					<div class="o_we_shape o_web_editor_Wavy_07 o_shape_show_mobile" style="background-image: url(&quot;/web_editor/shape/web_editor%2FWavy%2F07.svg?c3=%23E9ECEF&quot;);" />
+					<div class="container">
+						<div class="row d-flex align-items-stretch">
+							<div class="s_col_no_bgcolor pt16 pb16 col-lg-3 o_animate o_anim_zoom_in" style="">
+								<div class="card text-bg-white h-100">
+									<img src="/web/image/214-c141d102/developpeurs-reflechissent-idees-regardant-du-code-ecrans-ordinateur-demandant-commentaires-developpeur-senior-tandis-qu-stagiaire-se-joint-discussion-programmeurs-juniors-collaborant-projet-groupe.webp" alt="" class="card-img-top img img-fluid o_we_custom_image" data-mimetype="image/webp" data-original-id="209" data-original-src="/web/image/209-5e1d0ae0/developpeurs-reflechissent-idees-regardant-du-code-ecrans-ordinateur-demandant-commentaires-developpeur-senior-tandis-qu-stagiaire-se-joint-discussion-programmeurs-juniors-collaborant-projet-groupe.jpg" data-mimetype-before-conversion="image/jpeg" data-resize-width="690" loading="eager" />
+									<div class="card-body">
+										<h3 class="card-title o_default_snippet_text">
+											<font class="text-o-color-1">
+												<b>
+													ERP Odoo
+												</b>
+											</font>
+										</h3>
+										<p class="card-text o_default_snippet_text">
+											Adapt these three columns to fit your design need. To duplicate, delete or move columns, select the column and use the top icons to perform your action.
+										</p>
+									</div>
+								</div>
+							</div>
+							<div class="s_col_no_bgcolor pt16 pb16 col-lg-3 o_animate o_anim_zoom_in" style="">
+								<div class="card text-bg-white h-100">
+									<img src="/web/image/217-c141d102/developpeurs-reflechissent-idees-regardant-du-code-ecrans-ordinateur-demandant-commentaires-developpeur-senior-tandis-qu-stagiaire-se-joint-discussion-programmeurs-juniors-collaborant-projet-groupe.webp" alt="" class="card-img-top img img-fluid o_we_custom_image" data-mimetype="image/webp" data-original-id="209" data-original-src="/web/image/209-5e1d0ae0/developpeurs-reflechissent-idees-regardant-du-code-ecrans-ordinateur-demandant-commentaires-developpeur-senior-tandis-qu-stagiaire-se-joint-discussion-programmeurs-juniors-collaborant-projet-groupe.jpg" data-mimetype-before-conversion="image/jpeg" data-resize-width="690" loading="eager" />
+									<div class="card-body">
+										<h3 class="card-title o_default_snippet_text">
+											<font class="text-o-color-1">
+												<b>
+													Site Web E-commerce
+												</b>
+											</font>
+										</h3>
+										<p class="card-text o_default_snippet_text">
+											To add a fourth column, reduce the size of these three columns using the right icon of each block. Then, duplicate one of the columns to create a new one as a copy.
+										</p>
+									</div>
+								</div>
+							</div>
+							<div class="s_col_no_bgcolor pt16 pb16 col-lg-3 o_animate o_anim_zoom_in" style="">
+								<div class="card text-bg-white h-100">
+									<img src="/web/image/215-a3c0cf67/wallpaperflare.com_wallpaper.webp" alt="" class="card-img-top img img-fluid o_we_custom_image" data-mimetype="image/webp" data-original-id="213" data-original-src="/web/image/213-cb79e6be/wallpaperflare.com_wallpaper.jpg" data-mimetype-before-conversion="image/jpeg" data-resize-width="690" loading="eager" />
+									<div class="card-body">
+										<h3 class="card-title o_default_snippet_text">
+											<font class="text-o-color-1">
+												<b>
+													Application mobile
+												</b>
+											</font>
+										</h3>
+										<p class="card-text o_default_snippet_text">
+											Delete the above image or replace it with a picture that illustrates your message. Click on the picture to change its
+											<em class="o_default_snippet_text">
+												rounded corner
+											</em>
+											style.
+										</p>
+									</div>
+								</div>
+							</div>
+							<div class="s_col_no_bgcolor pt16 pb16 col-lg-3 o_animate o_anim_zoom_in" style="">
+								<div class="card text-bg-white h-100">
+									<img src="/web/image/216-a3c0cf67/wallpaperflare.com_wallpaper.webp" alt="" class="card-img-top img img-fluid o_we_custom_image" data-mimetype="image/webp" data-original-id="213" data-original-src="/web/image/213-cb79e6be/wallpaperflare.com_wallpaper.jpg" data-mimetype-before-conversion="image/jpeg" data-resize-width="690" loading="eager" />
+									<div class="card-body">
+										<h3 class="card-title o_default_snippet_text">
+											<font class="text-o-color-1">
+												<b>
+													Logiciels personnalisés
+												</b>
+											</font>
+										</h3>
+										<p class="card-text o_default_snippet_text">
+											Delete the above image or replace it with a picture that illustrates your message. Click on the picture to change its
+											<em class="o_default_snippet_text">
+												rounded corner
+											</em>
+											style.
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+				<section class="s_text_block pb40 o_colored_level pt0" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+					<div class="s_allow_columns container">
+						<p class="o_default_snippet_text">
+							<br />
+						</p>
+						<p />
+						<h2>
+							<font class="text-o-color-1">
+								<b>
+									<span class="o_animated_text o_animate o_anim_fade_in o_anim_from_bottom" style="">
+										Références des clients
+									</span>
+								</b>
+								&amp;nbsp;
+							</font>
+							<br />
+						</h2>
+						<p>
+							<span class="o_animated_text o_animate o_anim_fade_in" style="">
+								Chez MTechniix, notre mission est claire : révolutionner la manière dont les entreprises opèrent numériquement. Nous nous engageons à fournir des solutions intégrées qui transcendent les attentes et favorisent la croissance de nos clients.
+							</span>
+							<br />
+						</p>
+						<p>
+							<span class="o_animated_text o_animate o_anim_fade_in" style="">
+								À MTechniix, la qualité n'est pas seulement une norme, c'est une promesse. Nous nous engageons à fournir des solutions et des services de la plus haute qualité, garantissant une valeur ajoutée à chaque collaboration.
+							</span>
+						</p>
+					</div>
+				</section>
+				<section class="s_three_columns o_cc o_cc2 pt32 o_colored_level pb48" data-vcss="001" data-snippet="s_three_columns" data-name="Columns" style="background-image: none; position: relative;">
+					<div class="container">
+						<div class="row d-flex align-items-stretch">
+							<div class="s_col_no_bgcolor pt16 pb16 col-lg-3 o_animate o_anim_zoom_in" style="">
+								<div class="card text-bg-white h-100">
+									<img src="/web/image/231-e9474295/My%2520Website.svg" alt="" class="card-img-top img img-fluid o_we_custom_image mx-auto d-block" data-shape="web_editor/devices/macbook_front" data-shape-colors=";;#F3F2F2;;" data-mimetype="image/svg+xml" data-original-id="228" data-original-src="/web/image/228-b91d49fe/My%20Website.png" data-mimetype-before-conversion="image/png" data-original-mimetype="image/webp" data-resize-width="690" data-file-name="My%20Website.svg" loading="eager" />
+									<div class="card-body">
+										<h3 class="card-title">
+											<font class="text-o-color-1">
+												<b>
+													Midi Madagascar
+												</b>
+											</font>
+											<br />
+										</h3>
+										<p class="card-text">
+											Adapt these three columns to fit your design need. To duplicate,.
+										</p>
+									</div>
+								</div>
+							</div>
+							<div class="s_col_no_bgcolor pt16 pb16 col-lg-3 o_animate o_anim_zoom_in" style="">
+								<div class="card text-bg-white h-100">
+									<img src="/web/image/232-16c466f1/logo_vaniala.svg" alt="" class="card-img-top img img-fluid o_we_custom_image" data-shape="web_editor/devices/macbook_front" data-shape-colors=";;#F3F2F2;;" data-mimetype="image/svg+xml" data-original-id="229" data-original-src="/web/image/229-1aafb6b3/logo_vaniala.jpg" data-mimetype-before-conversion="image/jpeg" data-original-mimetype="image/webp" data-resize-width="690" data-file-name="logo_vaniala.svg" loading="eager" />
+									<div class="card-body">
+										<h3 class="card-title o_default_snippet_text">
+											<font class="text-o-color-1">
+												<b>
+													ERP Odoo
+												</b>
+											</font>
+										</h3>
+										<p class="card-text">
+											Adapt these three columns to fit your design need. To duplicate.
+										</p>
+									</div>
+								</div>
+							</div>
+							<div class="s_col_no_bgcolor pt16 pb16 col-lg-3 o_animate o_anim_zoom_in" style="">
+								<div class="card text-bg-white h-100">
+									<img src="/web/image/230-9c9880bd/developpeurs-reflechissent-idees-regardant-du-code-ecrans-ordinateur-demandant-commentaires-developpeur-senior-tandis-qu-stagiaire-se-joint-discussion-programmeurs-juniors-collaborant-projet-groupe.svg" alt="" class="card-img-top img img-fluid o_we_custom_image" data-mimetype="image/svg+xml" data-original-id="209" data-original-src="/web/image/209-5e1d0ae0/developpeurs-reflechissent-idees-regardant-du-code-ecrans-ordinateur-demandant-commentaires-developpeur-senior-tandis-qu-stagiaire-se-joint-discussion-programmeurs-juniors-collaborant-projet-groupe.jpg" data-mimetype-before-conversion="image/jpeg" data-resize-width="690" loading="eager" data-shape="web_editor/devices/macbook_front" data-file-name="developpeurs-reflechissent-idees-regardant-du-code-ecrans-ordinateur-demandant-commentaires-developpeur-senior-tandis-qu-stagiaire-se-joint-discussion-programmeurs-juniors-collaborant-projet-groupe.svg" data-shape-colors=";;#F3F2F2;;" data-original-mimetype="image/webp" />
+									<div class="card-body">
+										<h3 class="card-title o_default_snippet_text">
+											<font class="text-o-color-1">
+												<b>
+													ERP Odoo
+												</b>
+											</font>
+										</h3>
+										<p class="card-text o_default_snippet_text">
+											Adapt these three columns to fit your design need. To duplicate, delete or move columns,.
+										</p>
+										<p />
+									</div>
+								</div>
+							</div>
+							<div class="s_col_no_bgcolor pt16 pb16 col-lg-3 o_animate o_anim_zoom_in" style="">
+								<div class="card text-bg-white h-100">
+									<img src="/web/image/233-9c9880bd/developpeurs-reflechissent-idees-regardant-du-code-ecrans-ordinateur-demandant-commentaires-developpeur-senior-tandis-qu-stagiaire-se-joint-discussion-programmeurs-juniors-collaborant-projet-groupe.svg" alt="" class="card-img-top img img-fluid o_we_custom_image" data-mimetype="image/svg+xml" data-original-id="209" data-original-src="/web/image/209-5e1d0ae0/developpeurs-reflechissent-idees-regardant-du-code-ecrans-ordinateur-demandant-commentaires-developpeur-senior-tandis-qu-stagiaire-se-joint-discussion-programmeurs-juniors-collaborant-projet-groupe.jpg" data-mimetype-before-conversion="image/jpeg" data-resize-width="690" loading="eager" data-shape="web_editor/devices/macbook_front" data-file-name="developpeurs-reflechissent-idees-regardant-du-code-ecrans-ordinateur-demandant-commentaires-developpeur-senior-tandis-qu-stagiaire-se-joint-discussion-programmeurs-juniors-collaborant-projet-groupe.svg" data-shape-colors=";;#F3F2F2;;" data-original-mimetype="image/webp" />
+									<div class="card-body">
+										<h3 class="card-title o_default_snippet_text">
+											<font class="text-o-color-1">
+												<b>
+													ERP Odoo
+												</b>
+											</font>
+										</h3>
+										<p class="card-text o_default_snippet_text">
+											Adapt these three columns to fit your design need. To duplicate.
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="text-center pt24">
+						<p>
+							<a class="btn btn-outline-primary" href="#" data-bs-original-title="" title="">
+								<span class="o_animated_text o_animate o_anim_fade_in" style="">
+									Afficher tous nos références
+								</span>
+							</a>
+						</p>
+					</div>
+				</section>
+				<section class="s_text_block pb40 o_colored_level pt0" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+					<div class="s_allow_columns container">
+						<p class="o_default_snippet_text">
+							<br />
+						</p>
+						<p>
+							Chez MTechniix, notre mission est claire : révolutionner la manière dont les entreprises opèrent numériquement. Nous nous engageons à fournir des solutions intégrées qui transcendent les attentes et favorisent la croissance de nos clients.
+							<br />
+						</p>
+						<p>
+							À MTechniix, la qualité n'est pas seulement une norme, c'est une promesse. Nous nous engageons à fournir des solutions et des services de la plus haute qualité, garantissant une valeur ajoutée à chaque collaboration.
+						</p>
+					</div>
+				</section>
+				<section class="s_parallax parallax s_parallax_is_fixed bg-black-50 o_half_screen_height o_colored_level" data-scroll-background-ratio="1" data-snippet="s_parallax" data-name="Parallax" style="background-image: none;">
+					<span class="s_parallax_bg oe_img_bg o_bg_img_center" style="background-image: url(&quot;/web/image/218-8ab4689d/developpeurs-reflechissent-idees-regardant-du-code-ecrans-ordinateur-demandant-commentaires-developpeur-senior-tandis-qu-stagiaire-se-joint-discussion-programmeurs-juniors-collaborant-projet-groupe.webp&quot;); background-position: 50% 75%;" data-mimetype="image/webp" data-original-id="209" data-original-src="/web/image/209-5e1d0ae0/developpeurs-reflechissent-idees-regardant-du-code-ecrans-ordinateur-demandant-commentaires-developpeur-senior-tandis-qu-stagiaire-se-joint-discussion-programmeurs-juniors-collaborant-projet-groupe.jpg" data-mimetype-before-conversion="image/jpeg" data-resize-width="1920" />
+					<div class="o_we_bg_filter bg-black-50" />
+					<div class="s_allow_columns container">
+						<h1 class="display-3" style="text-align: left; font-weight: bold;">
+							MTechniix,&amp;nbsp;
+						</h1>
+						<h1 class="display-3" style="text-align: left; font-weight: bold;">
+							Soyez maître de votre avenir numérique.
+						</h1>
+						<p class="lead o_default_snippet_text" style="text-align: left;">
+							Write one or two paragraphs describing your product, services or a specific feature.
+							<br />
+							To be successful your content needs to be useful to your readers.
+						</p>
+						<p style="text-align: left;">
+							<a class="btn btn-primary" href="/contactus" data-bs-original-title="" title="">
+								Découvrir nos services
+							</a>
+						</p>
+						<div class="oe_structure oe_empty" data-editor-message-default="true" data-editor-message="DRAG BUILDING BLOCKS HERE" />
+					</div>
+				</section>
+				<section class="s_text_block pb40 o_colored_level pt0" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+					<div class="s_allow_columns container">
+						<p class="o_default_snippet_text">
+							<br />
+						</p>
+						<p />
+						<h2>
+							<font class="text-o-color-1">
+								<b>
+									Evolution de la societe
+								</b>
+							</font>
+							<br />
+						</h2>
+						<p>
+							Chez MTechniix, notre mission est claire : révolutionner la manière dont les entreprises opèrent numériquement. Nous nous engageons à fournir des solutions intégrées qui transcendent les attentes et favorisent la croissance de nos clients.
+							<br />
+						</p>
+						<p>
+							À MTechniix, la qualité n'est pas seulement une norme, c'est une promesse. Nous nous engageons à fournir des solutions et des services de la plus haute qualité, garantissant une valeur ajoutée à chaque collaboration.
+						</p>
+					</div>
+				</section>
+				<section class="s_timeline pt24 pb48 o_colored_level" data-snippet="s_timeline" data-name="Timeline" style="background-image: none; position: relative;" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Zigs/01_001&quot;,&quot;flip&quot;:[],&quot;showOnMobile&quot;:false,&quot;animated&quot;:&quot;true&quot;}">
+					<div class="o_we_shape o_web_editor_Zigs_01_001 o_we_animated" />
+					<div class="s_timeline_line container">
+						<div class="s_timeline_row d-block d-md-flex flex-row" data-name="Row">
+							<div class="s_timeline_date">
+								<b>
+									2024
+								</b>
+								<br />
+							</div>
+							<div class="s_timeline_content d-flex">
+								<div class="s_timeline_card s_card card w-100" data-name="Card" data-snippet="s_card" style="background-color: rgb(57, 132, 198);">
+									<div class="card-body">
+										<h5 class="card-title o_default_snippet_text">
+											Your title
+										</h5>
+										<p class="card-text">
+											A timeline is a graphical representation on which important events are marked.
+										</p>
+									</div>
+								</div>
+								<i class="fa fa-1x fa-child rounded-circle s_timeline_icon text-o-color-3" style="background-color: rgb(57, 132, 198);" />
+							</div>
+							<div class="s_timeline_content" />
+						</div>
+						<div class="s_timeline_row d-block d-md-flex flex-row" data-name="Row">
+							<div class="s_timeline_date">
+								<b>
+									2023
+								</b>
+								<br />
+							</div>
+							<div class="s_timeline_content d-flex">
+								<div class="s_timeline_card s_card card w-100" data-name="Card" data-snippet="s_card" style="background-color: rgb(255, 156, 0);">
+									<div class="card-body">
+										<h5 class="card-title">
+											Your title
+										</h5>
+										<p class="card-text o_default_snippet_text">
+											A timeline is a graphical representation on which important events are marked.
+										</p>
+									</div>
+								</div>
+								<i class="fa fa-1x fa-child rounded-circle s_timeline_icon text-o-color-3" style="background-color: rgb(231, 148, 57);" />
+							</div>
+							<div class="s_timeline_content" />
+						</div>
+						<div class="s_timeline_row d-block d-md-flex flex-row" data-name="Row">
+							<div class="s_timeline_date">
+								<b>
+									2022
+								</b>
+								<br />
+							</div>
+							<div class="s_timeline_content d-flex">
+								<div class="s_timeline_card s_card card w-100 bg-o-color-1" data-name="Card" data-snippet="s_card">
+									<div class="card-body">
+										<p class="card-text o_default_snippet_text">
+											You can edit, duplicate...
+										</p>
+									</div>
+								</div>
+								<i class="fa fa-1x fa-graduation-cap bg-o-color-2 rounded-circle s_timeline_icon" />
+							</div>
+							<div class="s_timeline_content d-flex">
+								<i class="fa fa-1x fa-asterisk bg-o-color-2 rounded-circle s_timeline_icon" />
+								<div class="s_timeline_card s_card card bg-white w-100" data-name="Card" data-snippet="s_card">
+									<div class="card-body">
+										<p class="card-text o_default_snippet_text">
+											...and switch the timeline contents to fit your needs.
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="s_timeline_row d-block d-md-flex flex-row-reverse" data-name="Row">
+							<div class="s_timeline_date">
+								<b>
+									2021
+								</b>
+								<br />
+							</div>
+							<div class="s_timeline_content d-flex">
+								<div class="s_timeline_card s_card card bg-white w-100" data-name="Card" data-snippet="s_card">
+									<div class="card-body">
+										<p class="card-text o_default_snippet_text">
+											Use this timeline as a part of your resume, to show your visitors what you've done in the past.
+										</p>
+									</div>
+								</div>
+								<i class="fa fa-1x fa-bolt bg-o-color-2 rounded-circle s_timeline_icon" />
+							</div>
+							<div class="s_timeline_content" />
+						</div>
+					</div>
+				</section>
+				<section class="s_numbers o_cc o_cc2 pt24 pb24 o_colored_level" data-snippet="s_numbers" data-name="Numbers" style="background-image: none;">
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-3 text-center pt24 pb24 o_colored_level">
+								<span class="s_number display-4">
+									<span style="font-weight: bolder;">
+										<font class="text-o-color-1">
+											12
+										</font>
+									</span>
+								</span>
+								<h6 class="o_default_snippet_text">
+									Useful options
+								</h6>
+							</div>
+							<div class="col-lg-3 text-center pt24 pb24 o_colored_level">
+								<span class="s_number display-4">
+									<span style="font-weight: bolder;">
+										<font class="text-o-color-1">
+											45
+										</font>
+									</span>
+								</span>
+								<h6 class="o_default_snippet_text">
+									Beautiful snippets
+								</h6>
+							</div>
+							<div class="col-lg-3 text-center pt24 pb24 o_colored_level">
+								<span class="s_number display-4">
+									<span style="font-weight: bolder;">
+										8
+									</span>
+								</span>
+								<h6 class="o_default_snippet_text">
+									Amazing pages
+								</h6>
+							</div>
+							<div class="col-lg-3 text-center pt24 pb24 o_colored_level">
+								<span class="s_number display-4 o_default_snippet_text">
+									<span style="font-weight: bolder;">
+										37
+									</span>
+								</span>
+								<h6 class="o_default_snippet_text">
+									Outstanding images
+								</h6>
+							</div>
+						</div>
+					</div>
+				</section>
+				<section class="s_text_block pb40 o_colored_level pt0" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+					<div class="s_allow_columns container">
+						<p class="o_default_snippet_text">
+							<br />
+						</p>
+						<p />
+						<h2>
+							<font class="text-o-color-1">
+								<b>
+									CEO et Nos équipes
+								</b>
+							</font>
+							<br />
+						</h2>
+						<p>
+							Chez MTechniix, notre mission est claire : révolutionner la manière dont les entreprises opèrent numériquement. Nous nous engageons à fournir des solutions intégrées qui transcendent les attentes et favorisent la croissance de nos clients.
+							<br />
+						</p>
+						<p>
+							À MTechniix, la qualité n'est pas seulement une norme, c'est une promesse. Nous nous engageons à fournir des solutions et des services de la plus haute qualité, garantissant une valeur ajoutée à chaque collaboration.
+						</p>
+					</div>
+				</section>
+				<section class="s_company_team pt48 pb48 o_colored_level" data-snippet="s_company_team" data-name="Team" style="background-image: none; position: relative;" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Floats/05&quot;,&quot;colors&quot;:{&quot;c1&quot;:&quot;#731842&quot;,&quot;c2&quot;:&quot;#4A1031&quot;,&quot;c3&quot;:&quot;#E9ECEF&quot;,&quot;c5&quot;:&quot;#111827&quot;},&quot;flip&quot;:[],&quot;showOnMobile&quot;:false,&quot;animated&quot;:&quot;true&quot;}">
+					<div class="o_we_shape o_web_editor_Floats_05 o_we_animated" style="background-image: url(&quot;/web_editor/shape/web_editor%2FFloats%2F05.svg?c1=%23731842&amp;c2=%234A1031&amp;c3=%23E9ECEF&amp;c5=%23111827&quot;);" />
+					<div class="container">
+						<div class="row s_nb_column_fixed">
+							<div class="col-lg-6 pt24 pb24 o_colored_level">
+								<div class="row s_col_no_resize s_col_no_bgcolor">
+									<div class="col-lg-4 pb16 o_not_editable">
+										<img alt="" src="/web/image/website.s_company_team_image_1" class="img-fluid rounded-circle mx-auto o_editable_media" loading="lazy" data-mimetype="image/jpeg" data-original-id="96" data-original-src="/website/static/src/img/snippets_demo/s_team_member_1.jpg" data-mimetype-before-conversion="image/jpeg" />
+									</div>
+									<div class="col-lg-8">
+										<h4>
+											<strong>
+												<font class="text-o-color-1">
+													Tony Fred, CEO
+												</font>
+											</strong>
+										</h4>
+										<p class="o_default_snippet_text">
+											Founder and chief visionary, Tony is the driving force behind the company. He loves
+											to keep his hands full by participating in the development of the software,
+											marketing, and customer experience strategies.
+										</p>
+									</div>
+								</div>
+							</div>
+							<div class="col-lg-6 pt24 pb24 o_colored_level">
+								<div class="row s_col_no_resize s_col_no_bgcolor">
+									<div class="col-lg-4 pb16 o_not_editable">
+										<img alt="" src="/web/image/website.s_company_team_image_2" class="img-fluid rounded-circle mx-auto o_editable_media" loading="lazy" data-mimetype="image/jpeg" data-original-id="97" data-original-src="/website/static/src/img/snippets_demo/s_team_member_2.jpg" data-mimetype-before-conversion="image/jpeg" />
+									</div>
+									<div class="col-lg-8">
+										<h4>
+											<strong>
+												<font class="text-o-color-1">
+													Mich Stark, COO
+												</font>
+											</strong>
+										</h4>
+										<p class="o_default_snippet_text">
+											Mich loves taking on challenges. With his multi-year experience as Commercial Director in the software industry, Mich has helped the company to get where it is today. Mich is among the best minds.
+										</p>
+									</div>
+								</div>
+							</div>
+							<div class="col-lg-6 pt24 pb24 o_colored_level">
+								<div class="row s_col_no_resize s_col_no_bgcolor">
+									<div class="col-lg-4 pb16 o_not_editable">
+										<img alt="" src="/web/image/website.s_company_team_image_3" class="img-fluid rounded-circle mx-auto o_editable_media" loading="lazy" data-mimetype="image/jpeg" data-original-id="98" data-original-src="/website/static/src/img/snippets_demo/s_team_member_3.jpg" data-mimetype-before-conversion="image/jpeg" />
+									</div>
+									<div class="col-lg-8">
+										<h4>
+											<strong>
+												<font class="text-o-color-1">
+													Aline Turner, CTO
+												</font>
+											</strong>
+										</h4>
+										<p class="o_default_snippet_text">
+											Aline is one of the iconic people in life who can say they love what they do. She mentors 100+ in-house developers and looks after the community of thousands of developers.
+										</p>
+									</div>
+								</div>
+							</div>
+							<div class="col-lg-6 pt24 pb24 o_colored_level">
+								<div class="row s_col_no_resize s_col_no_bgcolor">
+									<div class="col-lg-4 pb16 o_not_editable">
+										<img alt="" src="/web/image/website.s_company_team_image_4" class="img-fluid rounded-circle mx-auto o_editable_media" loading="lazy" data-mimetype="image/jpeg" data-original-id="99" data-original-src="/website/static/src/img/snippets_demo/s_team_member_4.jpg" data-mimetype-before-conversion="image/jpeg" />
+									</div>
+									<div class="col-lg-8">
+										<h4>
+											<font class="text-o-color-1">
+												<strong>
+													Iris Joe, CFO
+												</strong>
+											</font>
+										</h4>
+										<p class="o_default_snippet_text">
+											Iris, with her international experience, helps us easily understand the numbers and improves them. She is determined to drive success and delivers her professional acumen to bring the company to the next level.
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+				<section class="s_quotes_carousel_wrapper o_colored_level" data-vxml="001" data-vcss="001" data-snippet="s_quotes_carousel" data-name="Quotes" style="background-image: none;">
+					<div class="s_quotes_carousel s_carousel_default carousel slide o_cc o_cc2" data-bs-interval="10000" id="myCarousel1706095188775" style="background-image: none;">
+						<ol class="carousel-indicators o_we_no_overlay">
+							<li data-bs-slide-to="0" data-bs-target="#myCarousel1706095188775" />
+							<li data-bs-slide-to="1" data-bs-target="#myCarousel1706095188775" class="active" aria-current="true" />
+							<li data-bs-slide-to="2" data-bs-target="#myCarousel1706095188775" />
+						</ol>
+						<div class="carousel-inner">
+							<div class="carousel-item pt80 pb80 o_colored_level oe_img_bg o_bg_img_center" style="background-image: url(&quot;/web/image/224-8ab4689d/developpeurs-reflechissent-idees-regardant-du-code-ecrans-ordinateur-demandant-commentaires-developpeur-senior-tandis-qu-stagiaire-se-joint-discussion-programmeurs-juniors-collaborant-projet-groupe.webp&quot;); background-position: 50% 50%;" data-name="Slide" data-mimetype="image/webp" data-original-id="209" data-original-src="/web/image/209-5e1d0ae0/developpeurs-reflechissent-idees-regardant-du-code-ecrans-ordinateur-demandant-commentaires-developpeur-senior-tandis-qu-stagiaire-se-joint-discussion-programmeurs-juniors-collaborant-projet-groupe.jpg" data-mimetype-before-conversion="image/jpeg" data-resize-width="1920">
+								<div class="container">
+									<blockquote class="s_blockquote s_blockquote_classic blockquote mx-auto w-50" data-name="Blockquote">
+										<i class="fa fa-1x fa-quote-left rounded float-start bg-o-color-2 s_blockquote_icon" />
+										<div class="s_blockquote_content o_cc1" style="background-image: none;">
+											<p class="o_default_snippet_text">
+												Write a quote here from one of your customers. Quotes are a great way to build confidence in your products or services.
+											</p>
+											<footer class="blockquote-footer">
+												<img src="/web/image/website.s_quotes_carousel_demo_image_3" class="s_blockquote_avatar img rounded-circle me-2" alt="" loading="lazy" data-mimetype="image/jpeg" data-original-id="74" data-original-src="/website/static/src/img/snippets_demo/s_team_member_3.jpg" data-mimetype-before-conversion="image/jpeg" />
+												<span class="s_blockquote_author text-muted o_default_snippet_text">
+													<b class="o_default_snippet_text">
+														Jane DOE
+													</b>
+													• CEO of MyCompany
+												</span>
+											</footer>
+										</div>
+									</blockquote>
+								</div>
+							</div>
+							<div class="carousel-item pt80 pb80 o_colored_level oe_img_bg o_bg_img_center active" style="background-image: url(&quot;/web/image/website.s_quotes_carousel_demo_image_1&quot;); background-position: 50% 50%;" data-name="Slide">
+								<div class="container">
+									<blockquote class="s_blockquote s_blockquote_classic blockquote me-auto w-50" data-name="Blockquote">
+										<i class="fa fa-1x fa-quote-left rounded float-start bg-o-color-2 s_blockquote_icon" />
+										<div class="s_blockquote_content o_cc1" style="background-image: none;">
+											<p class="o_default_snippet_text">
+												Write a quote here from one of your customers. Quotes are a great way to build confidence in your products or services.
+											</p>
+											<footer class="blockquote-footer">
+												<img src="/web/image/website.s_quotes_carousel_demo_image_4" class="s_blockquote_avatar img rounded-circle me-2" alt="" loading="lazy" data-mimetype="image/jpeg" data-original-id="75" data-original-src="/website/static/src/img/snippets_demo/s_team_member_2.jpg" data-mimetype-before-conversion="image/jpeg" />
+												<span class="s_blockquote_author text-muted o_default_snippet_text">
+													<b class="o_default_snippet_text">
+														John DOE
+													</b>
+													• CEO of MyCompany
+												</span>
+											</footer>
+										</div>
+									</blockquote>
+								</div>
+							</div>
+							<div class="carousel-item pt80 pb80 o_colored_level oe_img_bg o_bg_img_center" style="background-image: url(&quot;/web/image/223-003da481/wallpaperflare.com_wallpaper.webp&quot;); background-position: 50% 50%;" data-name="Slide" data-mimetype="image/webp" data-original-id="213" data-original-src="/web/image/213-cb79e6be/wallpaperflare.com_wallpaper.jpg" data-mimetype-before-conversion="image/jpeg" data-resize-width="1920">
+								<div class="container">
+									<blockquote class="s_blockquote s_blockquote_classic blockquote ms-auto w-50" data-name="Blockquote">
+										<i class="fa fa-1x fa-quote-left rounded float-start bg-o-color-2 s_blockquote_icon" />
+										<div class="s_blockquote_content o_cc1" style="background-image: none;">
+											<p class="o_default_snippet_text">
+												Write a quote here from one of your customers. Quotes are a great way to build confidence in your products or services.
+											</p>
+											<footer class="blockquote-footer">
+												<img src="/web/image/website.s_quotes_carousel_demo_image_5" class="s_blockquote_avatar img rounded-circle me-2" alt="" loading="lazy" data-mimetype="image/jpeg" data-original-id="76" data-original-src="/website/static/src/img/snippets_demo/s_team_member_4.jpg" data-mimetype-before-conversion="image/jpeg" />
+												<span class="s_blockquote_author text-muted o_default_snippet_text">
+													<b class="o_default_snippet_text">
+														Iris DOE
+													</b>
+													• CEO of MyCompany
+												</span>
+											</footer>
+										</div>
+									</blockquote>
+								</div>
+							</div>
+						</div>
+						<div class="carousel-control-prev o_not_editable o_we_no_overlay" data-bs-slide="prev" role="img" aria-label="Previous" title="Previous" data-bs-target="#myCarousel1706095188775">
+							<span class="carousel-control-prev-icon" />
+							<span class="visually-hidden o_default_snippet_text">
+								Previous
+							</span>
+						</div>
+						<div class="carousel-control-next o_not_editable o_we_no_overlay" data-bs-slide="next" role="img" aria-label="Next" title="Next" data-bs-target="#myCarousel1706095188775">
+							<span class="carousel-control-next-icon" />
+							<span class="visually-hidden o_default_snippet_text">
+								Next
+							</span>
+						</div>
+					</div>
+				</section>
+				<section class="s_text_block pb40 o_colored_level pt0" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+					<div class="s_allow_columns container">
+						<p class="o_default_snippet_text">
+							<br />
+						</p>
+						<p />
+						<h2>
+							<font class="text-o-color-1">
+								<b>
+									Contactez-nous
+								</b>
+							</font>
+							<br />
+						</h2>
+						<p>
+							Chez MTechniix, notre mission est claire : révolutionner la manière dont les entreprises opèrent numériquement. Nous nous engageons à fournir des solutions intégrées qui transcendent les attentes et favorisent la croissance de nos clients.
+						</p>
+						<section class="s_website_form pt16 pb16" data-vcss="001" data-snippet="s_website_form" data-name="Form">
+							<div class="container">
+								<form action="/website/form/" method="post" enctype="multipart/form-data" class="o_mark_required" data-mark="*" data-pre-fill="true" data-model_name="mail.mail" data-success-mode="redirect" data-success-page="/contactus-thank-you">
+									<div class="s_website_form_rows row s_col_no_bgcolor">
+										<div data-name="Field" class="s_website_form_field mb-3 col-12 s_website_form_custom s_website_form_required" data-type="char">
+											<div class="row s_col_no_resize s_col_no_bgcolor">
+												<label class="col-form-label col-sm-auto s_website_form_label" style="width: 200px" for="obij2aulqyau">
+													<span class="s_website_form_label_content o_default_snippet_text">
+														Your Name
+													</span>
+													<span class="s_website_form_mark o_default_snippet_text">
+														*
+													</span>
+												</label>
+												<div class="col-sm">
+													<input class="form-control s_website_form_input" type="text" name="name" required="1" data-fill-with="name" id="obij2aulqyau" />
+												</div>
+											</div>
+										</div>
+										<div data-name="Field" class="s_website_form_field mb-3 col-12 s_website_form_custom" data-type="tel">
+											<div class="row s_col_no_resize s_col_no_bgcolor">
+												<label class="col-form-label col-sm-auto s_website_form_label" style="width: 200px" for="ozp7022vqhe">
+													<span class="s_website_form_label_content o_default_snippet_text">
+														Phone Number
+													</span>
+												</label>
+												<div class="col-sm">
+													<input class="form-control s_website_form_input" type="tel" name="phone" data-fill-with="phone" id="ozp7022vqhe" />
+												</div>
+											</div>
+										</div>
+										<div data-name="Field" class="s_website_form_field mb-3 col-12 s_website_form_model_required" data-type="email">
+											<div class="row s_col_no_resize s_col_no_bgcolor">
+												<label class="col-form-label col-sm-auto s_website_form_label" style="width: 200px" for="oub62hlfgjwf">
+													<span class="s_website_form_label_content o_default_snippet_text">
+														Your Email
+													</span>
+													<span class="s_website_form_mark o_default_snippet_text">
+														*
+													</span>
+												</label>
+												<div class="col-sm">
+													<input class="form-control s_website_form_input" type="email" name="email_from" required="" data-fill-with="email" id="oub62hlfgjwf" />
+												</div>
+											</div>
+										</div>
+										<div data-name="Field" class="s_website_form_field mb-3 col-12 s_website_form_custom" data-type="char">
+											<div class="row s_col_no_resize s_col_no_bgcolor">
+												<label class="col-form-label col-sm-auto s_website_form_label" style="width: 200px" for="o291di1too2s">
+													<span class="s_website_form_label_content o_default_snippet_text">
+														Your Company
+													</span>
+												</label>
+												<div class="col-sm">
+													<input class="form-control s_website_form_input" type="text" name="company" data-fill-with="commercial_company_name" id="o291di1too2s" />
+												</div>
+											</div>
+										</div>
+										<div data-name="Field" class="s_website_form_field mb-3 col-12 s_website_form_model_required" data-type="char">
+											<div class="row s_col_no_resize s_col_no_bgcolor">
+												<label class="col-form-label col-sm-auto s_website_form_label" style="width: 200px" for="oqsf4m51acj">
+													<span class="s_website_form_label_content o_default_snippet_text">
+														Subject
+													</span>
+													<span class="s_website_form_mark o_default_snippet_text">
+														*
+													</span>
+												</label>
+												<div class="col-sm">
+													<input class="form-control s_website_form_input" type="text" name="subject" required="" id="oqsf4m51acj" />
+												</div>
+											</div>
+										</div>
+										<div data-name="Field" class="s_website_form_field mb-3 col-12 s_website_form_custom s_website_form_required" data-type="text">
+											<div class="row s_col_no_resize s_col_no_bgcolor">
+												<label class="col-form-label col-sm-auto s_website_form_label" style="width: 200px" for="oyeqnysxh10b">
+													<span class="s_website_form_label_content o_default_snippet_text">
+														Your Question
+													</span>
+													<span class="s_website_form_mark o_default_snippet_text">
+														*
+													</span>
+												</label>
+												<div class="col-sm">
+													<textarea class="form-control s_website_form_input" name="description" required="1" id="oyeqnysxh10b" rows="3" />
+												</div>
+											</div>
+										</div>
+										<div data-name="Field" class="s_website_form_field mb-3 col-12 s_website_form_dnone">
+											<div class="row s_col_no_resize s_col_no_bgcolor">
+												<label class="col-form-label col-sm-auto s_website_form_label" style="width: 200px">
+													<span class="s_website_form_label_content" />
+												</label>
+												<div class="col-sm">
+													<input type="hidden" class="form-control s_website_form_input" name="email_to" value="info@yourcompany.example.com" />
+													<input type="hidden" value="cc4e786d5cd10c4a5f4f0849ed8b9fdf3bd234b54e86d0fdc1b4c2bb0b43f38e" class="form-control s_website_form_input s_website_form_custom" name="website_form_signature" />
+												</div>
+											</div>
+										</div>
+										<div class="mb-0 py-2 col-12 s_website_form_submit" data-name="Submit Button">
+											<div style="width: 200px;" class="s_website_form_label" />
+											<a href="#" role="button" class="btn btn-primary s_website_form_send o_default_snippet_text">
+												Submit
+											</a>
+											<span id="s_website_form_result" />
+										</div>
+									</div>
+								</form>
+							</div>
+						</section>
+					</div>
+				</section>
+				<section class="s_call_to_action o_cc o_cc3 pt48 pb24 o_colored_level" data-snippet="s_call_to_action" data-name="Call to Action" style="background-image: none; position: relative;" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Rainy/02_001&quot;,&quot;colors&quot;:{&quot;c1&quot;:&quot;#731842&quot;,&quot;c4&quot;:&quot;#FFFFFF&quot;,&quot;c5&quot;:&quot;#111827&quot;},&quot;flip&quot;:[],&quot;showOnMobile&quot;:false,&quot;animated&quot;:&quot;true&quot;}">
+					<div class="o_we_shape o_web_editor_Rainy_02_001 o_we_animated" style="background-image: url(&quot;/web_editor/shape/web_editor%2FRainy%2F02_001.svg?c1=%23731842&amp;c4=%23FFFFFF&amp;c5=%23111827&quot;);" />
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-9 pb16 o_colored_level">
+								<h3 class="o_default_snippet_text">
+									<b class="o_default_snippet_text">
+										50,000+ companies
+									</b>
+									run Odoo to grow their businesses.
+								</h3>
+								<p class="o_default_snippet_text">
+									Join us and make your company a better place.
+								</p>
+							</div>
+							<div class="col-lg-3 pt8 o_colored_level">
+								<p style="text-align: right;">
+									<a class="btn btn-primary btn-lg o_default_snippet_text" href="/contactus">
+										Contact us
+									</a>
+								</p>
+							</div>
+						</div>
+					</div>
+				</section>
+				<div class="text-center" style="position: fixed; bottom: 20px; right: 30px">
+					<a href="#top" class="btn btn-outline-primary p-2 text-center">
+						<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" class="bi bi-arrow-up-short" viewbox="0 0 16 16">
+							<path fill-rule="evenodd" d="M8 12a.5.5 0 0 0 .5-.5V5.707l2.146 2.147a.5.5 0 0 0 .708-.708l-3-3a.5.5 0 0 0-.708 0l-3 3a.5.5 0 1 0 .708.708L7.5 5.707V11.5a.5.5 0 0 0 .5.5" />
+						</svg>
+					</a>
+				</div>
+			</div>
+		</t>
+	</template>
+</odoo>

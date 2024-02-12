@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+	<template id="page_custom_technology" name="Technology personnalise">
+		<t t-call="website.layout">
+			<div id="wrap" class="oe_structure oe_empty">
+				<section class="s_text_image pt32 pb32 o_colored_level o_half_screen_height" data-snippet="s_text_image" data-name="Text - Image" style="background-image: none; position: relative;" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Origins/05&quot;,&quot;flip&quot;:[],&quot;showOnMobile&quot;:false}">
+					<div class="o_we_shape o_web_editor_Origins_05" />
+					<div class="container">
+						<div class="row align-items-center">
+							<div class="col-lg-6 pt16 pb16 o_colored_level">
+								<p>
+									<strong>
+										<font class="text-o-color-1">
+											<span class="display-4-fs">
+												<span class="o_animated_text o_animate o_anim_fade_in o_anim_from_left o_visible" style="">
+													Logiciels de gestion personnalisée
+												</span>
+											</span>
+										</font>
+									</strong>
+									Write one or two paragraphs describing your product or services. To be successful your content needs to be useful to your readers.
+								</p>
+								<p class="o_default_snippet_text">
+									Start with the customer – find out what they want and give it to them.
+								</p>
+							</div>
+							<div class="col-lg-6 pt16 pb16 o_colored_level o_anim_fade_in o_animate o_anim_from_right o_visible" style="">
+								<img src="/web/image/312-5b15f9e9/Capture%2520d%25E2%2580%2599%25C3%25A9cran%2520du%25202024-01-25%252011-53-08.svg" alt="" class="img img-fluid mx-auto o_we_custom_image" style="width: 100% !important;" data-shape="web_editor/devices/macbook_3d_01" data-shape-colors=";;#F3F2F2;;" data-mimetype="image/svg+xml" data-original-id="310" data-original-src="/web/image/310-88aff12b/Capture%20d%E2%80%99%C3%A9cran%20du%202024-01-25%2011-53-08.png" data-mimetype-before-conversion="image/png" data-original-mimetype="image/webp" data-resize-width="690" data-file-name="Capture%20d%E2%80%99%C3%A9cran%20du%202024-01-25%2011-53-08.svg" loading="eager" />
+							</div>
+						</div>
+					</div>
+				</section>
+				<section class="s_text_block pt20 pb20 o_colored_level" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+					<div class="container s_allow_columns">
+						<p class="o_default_snippet_text">
+							Great stories have a
+							<b class="o_default_snippet_text">
+								personality
+							</b>
+							. Consider telling a great story that provides personality. Writing a story with personality for potential clients will assist with making a relationship connection. This shows up in small quirks like word choices or phrases. Write from your point of view, not from someone else's experience.
+						</p>
+						<p class="o_default_snippet_text">
+							Great stories are
+							<b class="o_default_snippet_text">
+								for everyone
+							</b>
+							even when only written
+							<b class="o_default_snippet_text">
+								for just one person
+							</b>
+							. If you try to write with a wide, general audience in mind, your story will sound fake and lack emotion. No one will be interested. Write for one person. If it’s genuine for the one, it’s genuine for the rest.
+						</p>
+					</div>
+				</section>
+				<section class="s_text_image o_colored_level o_half_screen_height pb64 pt40" data-snippet="s_text_image" data-name="Text - Image" style="background-image: none;">
+					<div class="container">
+						<div class="row">
+							<div class="o_colored_level col-lg-6">
+								<h2 class="o_default_snippet_text text-o-color-1">
+									<b>
+										Les technologies utilisées
+									</b>
+								</h2>
+								<p class="o_default_snippet_text">
+									Write one or two paragraphs describing your product or services. To be successful your content needs to be useful to your readers.
+								</p>
+								<p class="o_default_snippet_text">
+									Start with the customer – find out what they want and give it to them.
+								</p>
+								<div class="row">
+									<div class="col-lg-4 o_colored_level">
+										<img src="/web/image/353-2f52c4c0/logo-gitlab.webp" alt="" class="img img-fluid mx-auto o_we_custom_image" style="width: 100% !important;" data-mimetype="image/webp" data-original-id="345" data-original-src="/web/image/345-42e33f80/logo-gitlab.webp" data-mimetype-before-conversion="image/webp" data-resize-width="690" loading="lazy" />
+									</div>
+									<div class="col-lg-4 o_colored_level">
+										<img src="/web/image/368-c45a7106/logo-ubuntu.webp" alt="" class="img img-fluid mx-auto o_we_custom_image" data-mimetype="image/webp" data-original-id="354" data-original-src="/web/image/354-c1c6e3b3/logo-ubuntu.webp" data-mimetype-before-conversion="image/webp" data-resize-width="690" loading="lazy" />
+									</div>
+									<div class="col-lg-4 o_colored_level">
+										<img src="/web/image/351-78d3b6d6/logo-docker.webp" alt="" class="img img-fluid mx-auto o_we_custom_image" data-mimetype="image/webp" data-original-id="349" data-original-src="/web/image/349-921b412e/logo-docker.webp" data-mimetype-before-conversion="image/webp" data-resize-width="690" loading="lazy" />
+									</div>
+									<div class="col-lg-4 o_colored_level">
+										<img src="/web/image/367-fd62751b/logo-fluiter.webp" alt="" class="img img-fluid mx-auto o_we_custom_image" style="width: 100% !important;" data-mimetype="image/webp" data-original-id="360" data-original-src="/web/image/360-281b786e/logo-fluiter.webp" data-mimetype-before-conversion="image/webp" data-resize-width="690" loading="lazy" />
+									</div>
+									<div class="col-lg-4 o_colored_level">
+										<img src="/web/image/365-27e62e12/logo-github.webp" alt="" class="img img-fluid mx-auto o_we_custom_image" data-mimetype="image/webp" data-original-id="356" data-original-src="/web/image/356-3b0706c6/logo-github.webp" data-mimetype-before-conversion="image/webp" data-resize-width="690" loading="lazy" />
+									</div>
+									<div class="col-lg-4 o_colored_level">
+										<img src="/web/image/364-0e713e14/logo-linux.webp" alt="" class="img img-fluid mx-auto o_we_custom_image" data-mimetype="image/webp" data-original-id="358" data-original-src="/web/image/358-91d42bbf/logo-linux.webp" data-mimetype-before-conversion="image/webp" data-resize-width="690" loading="lazy" />
+									</div>
+									<div class="col-lg-4 o_colored_level">
+										<img src="/web/image/379-7160b3d2/logo-postgresql.webp" alt="" class="img img-fluid mx-auto o_we_custom_image" style="width: 100% !important;" data-mimetype="image/webp" data-original-id="372" data-original-src="/web/image/372-32d44142/logo-postgresql.webp" data-mimetype-before-conversion="image/webp" data-resize-width="690" loading="lazy" />
+									</div>
+									<div class="col-lg-4 o_colored_level">
+										<img src="/web/image/378-fe7c3041/logo-odoo.webp" alt="" class="img img-fluid mx-auto o_we_custom_image" data-mimetype="image/webp" data-original-id="374" data-original-src="/web/image/374-79391b7e/logo-odoo.webp" data-mimetype-before-conversion="image/webp" data-resize-width="690" loading="lazy" />
+									</div>
+									<div class="col-lg-4 o_colored_level">
+										<img src="/web/image/380-2f52c4c0/logo-gitlab.webp" alt="" class="img img-fluid mx-auto o_we_custom_image" data-mimetype="image/webp" data-original-id="376" data-original-src="/web/image/376-42e33f80/logo-gitlab.webp" data-mimetype-before-conversion="image/webp" data-resize-width="690" loading="lazy" />
+									</div>
+								</div>
+							</div>
+							<div class="o_colored_level col-lg-5">
+								<img src="/web/image/366-397261a6/FR_Project_managemnt_asset1.webp" alt="" class="img img-fluid mx-auto o_we_custom_image" data-mimetype="image/webp" data-original-id="296" data-original-src="/web/image/296-fa3de8d2/FR_Project_managemnt_asset1.png" data-mimetype-before-conversion="image/png" data-resize-width="690" loading="lazy" />
+							</div>
+						</div>
+					</div>
+				</section>
+				<section class="s_numbers o_cc o_cc2 pt24 pb24 o_colored_level" data-snippet="s_numbers" data-name="Numbers" style="background-image: none;">
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-3 text-center pt24 pb24 o_colored_level">
+								<span class="s_number display-4">
+									<span style="font-weight: bolder;">
+										<font class="text-o-color-1">
+											<b>
+												12
+											</b>
+										</font>
+									</span>
+								</span>
+								<h6 class="o_default_snippet_text">
+									Useful options
+								</h6>
+							</div>
+							<div class="col-lg-3 text-center pt24 pb24 o_colored_level">
+								<span class="s_number display-4">
+									<span style="font-weight: bolder;">
+										<font class="text-o-color-1">
+											<b>
+												45
+											</b>
+										</font>
+									</span>
+								</span>
+								<h6 class="o_default_snippet_text">
+									Beautiful snippets
+								</h6>
+							</div>
+							<div class="col-lg-3 text-center pt24 pb24 o_colored_level">
+								<span class="s_number display-4">
+									<span style="font-weight: bolder;">
+										<font class="text-o-color-1">
+											<b>
+												8
+											</b>
+										</font>
+									</span>
+								</span>
+								<h6 class="o_default_snippet_text">
+									Amazing pages
+								</h6>
+							</div>
+							<div class="col-lg-3 text-center pt24 pb24 o_colored_level">
+								<span class="s_number display-4">
+									<span style="font-weight: bolder;">
+										<font class="text-o-color-1">
+											<b>
+												37
+											</b>
+										</font>
+									</span>
+								</span>
+								<h6 class="o_default_snippet_text">
+									Outstanding images
+								</h6>
+							</div>
+						</div>
+					</div>
+				</section>
+				<section class="s_text_block pt40 pb40 o_colored_level" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+					<div class="container s_allow_columns">
+						<p class="o_default_snippet_text">
+							Great stories have a
+							<b class="o_default_snippet_text">
+								personality
+							</b>
+							. Consider telling a great story that provides personality. Writing a story with personality for potential clients will assist with making a relationship connection. This shows up in small quirks like word choices or phrases. Write from your point of view, not from someone else's experience.
+						</p>
+						<p class="o_default_snippet_text">
+							Great stories are
+							<b class="o_default_snippet_text">
+								for everyone
+							</b>
+							even when only written
+							<b class="o_default_snippet_text">
+								for just one person
+							</b>
+							. If you try to write with a wide, general audience in mind, your story will sound fake and lack emotion. No one will be interested. Write for one person. If it’s genuine for the one, it’s genuine for the rest.
+						</p>
+					</div>
+				</section>
+				<section class="s_three_columns o_cc o_cc2 pt32 pb32 o_colored_level" data-vcss="001" data-snippet="s_three_columns" data-name="Columns" style="background-image: none;">
+					<div class="container">
+						<div class="row d-flex align-items-stretch">
+							<div class="s_col_no_bgcolor pt16 pb16 col-lg-3">
+								<div class="card text-bg-white h-100">
+									<img src="/web/image/240-53ba2992/7053246.webp" alt="" class="card-img-top img img-fluid o_we_custom_image" data-mimetype="image/webp" data-original-id="237" data-original-src="/web/image/237-268bf259/7053246.jpg" data-mimetype-before-conversion="image/jpeg" data-resize-width="690" loading="lazy" />
+									<div class="card-body">
+										<h3 class="card-title o_default_snippet_text">
+											Feature One
+										</h3>
+										<p class="card-text o_default_snippet_text">
+											Adapt these three columns to fit your design need. To duplicate, delete or move columns, select the column and use the top icons to perform your action.
+										</p>
+									</div>
+								</div>
+							</div>
+							<div class="s_col_no_bgcolor pt16 pb16 col-lg-3">
+								<div class="card text-bg-white h-100">
+									<img src="/web/image/239-8cfb824a/maxresdefault.webp" alt="" class="card-img-top img img-fluid o_we_custom_image" data-mimetype="image/webp" data-original-id="234" data-original-src="/web/image/234-a4011140/maxresdefault.jpg" data-mimetype-before-conversion="image/jpeg" data-resize-width="690" loading="lazy" />
+									<div class="card-body">
+										<h3 class="card-title o_default_snippet_text">
+											Feature Two
+										</h3>
+										<p class="card-text o_default_snippet_text">
+											To add a fourth column, reduce the size of these three columns using the right icon of each block. Then, duplicate one of the columns to create a new one as a copy.
+										</p>
+									</div>
+								</div>
+							</div>
+							<div class="s_col_no_bgcolor pt16 pb16 col-lg-3">
+								<div class="card text-bg-white h-100">
+									<img src="/web/image/242-8cfb824a/maxresdefault.webp" alt="" class="card-img-top img img-fluid o_we_custom_image" data-mimetype="image/webp" data-original-id="234" data-original-src="/web/image/234-a4011140/maxresdefault.jpg" data-mimetype-before-conversion="image/jpeg" data-resize-width="690" loading="lazy" />
+									<div class="card-body">
+										<h3 class="card-title o_default_snippet_text">
+											Feature Three
+										</h3>
+										<p class="card-text o_default_snippet_text">
+											Delete the above image or replace it with a picture that illustrates your message. Click on the picture to change its
+											<em class="o_default_snippet_text">
+												rounded corner
+											</em>
+											style.
+										</p>
+									</div>
+								</div>
+							</div>
+							<div class="s_col_no_bgcolor pt16 pb16 col-lg-3">
+								<div class="card text-bg-white h-100">
+									<img src="/web/image/241-53ba2992/7053246.webp" alt="" class="card-img-top img img-fluid o_we_custom_image" data-mimetype="image/webp" data-original-id="237" data-original-src="/web/image/237-268bf259/7053246.jpg" data-mimetype-before-conversion="image/jpeg" data-resize-width="690" loading="lazy" />
+									<div class="card-body">
+										<h3 class="card-title o_default_snippet_text">
+											Feature Three
+										</h3>
+										<p class="card-text o_default_snippet_text">
+											Delete the above image or replace it with a picture that illustrates your message. Click on the picture to change its
+											<em class="o_default_snippet_text">
+												rounded corner
+											</em>
+											style.
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+			</div>
+		</t>
+	</template>
+</odoo>

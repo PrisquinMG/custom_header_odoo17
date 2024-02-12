@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+	<template id="page_erp_odoo" name="ERP Odoo">
+		<t t-call="website.layout">
+			<div id="wrap" class="oe_structure oe_empty">
+				<section class="s_text_image pt32 pb32 o_colored_level o_half_screen_height" data-snippet="s_text_image" data-name="Text - Image" style="background-image: none; position: relative;" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Origins/05&quot;,&quot;flip&quot;:[],&quot;showOnMobile&quot;:false}">
+					<div class="o_we_shape o_web_editor_Origins_05" />
+					<div class="container">
+						<div class="row align-items-center">
+							<div class="col-lg-6 pt16 pb16 o_colored_level">
+								<h1>
+									<strong>
+										<font class="text-o-color-1">
+											<span class="display-4-fs">
+												<span class="o_animated_text o_animate o_anim_fade_in o_anim_from_right o_visible" style="">
+													ERP Odoo
+												</span>
+												&amp;nbsp;
+											</span>
+										</font>
+									</strong>
+								</h1>
+								<h2>
+									<strong>
+										<font class="text-o-color-1">
+											<span class="h2-fs">
+												<span class="o_animated_text o_animate o_anim_fade_in o_anim_from_right o_visible" style="">
+													Faisons de votre ERP votre atout
+												</span>
+											</span>
+										</font>
+									</strong>
+									<br />
+								</h2>
+								<p>
+									<span class="o_animated_text o_animate o_anim_fade_in o_visible" style="">
+										Optimisez vos opérations avec la puissance d'Odoo. Simplifiez, automatisez, prospérez.
+									</span>
+								</p>
+								<p>
+									<span class="o_animated_text o_animate o_anim_fade_in o_visible" style="">
+										Start with the customer – find out what they want and give it to them.
+									</span>
+								</p>
+								<p />
+							</div>
+							<div class="col-lg-6 pt16 pb16 o_colored_level o_anim_fade_in o_animate o_anim_from_right o_visible" style="">
+								<img src="/web/image/238-1eb86ec5/maxresdefault.svg" alt="" class="img img-fluid mx-auto o_we_custom_image" data-shape="web_editor/devices/macbook_3d_02" data-shape-colors=";;#F3F2F2;;" data-mimetype="image/svg+xml" data-original-id="234" data-original-src="/web/image/234-a4011140/maxresdefault.jpg" data-mimetype-before-conversion="image/jpeg" data-original-mimetype="image/webp" data-resize-width="690" data-file-name="maxresdefault.svg" loading="eager" />
+							</div>
+						</div>
+					</div>
+				</section>
+				<section class="s_image_gallery o_colored_level bg-white o_spc-big o_masonry pt0 pb0" data-vcss="001" data-columns="12" style="overflow: hidden; position: relative; background-image: none;" data-snippet="s_images_wall" data-name="Images Wall">
+					<div class="text-center container">
+						<div class="row s_nb_column_fixed">
+							<div class="o_masonry_col o_snippet_not_selectable col-lg-1">
+								<img src="/web/image/265-fbbb1543/market.svg" alt="" class="img img-fluid d-block o_we_custom_image img-thumbnail border-0" data-mimetype="image/svg+xml" data-original-id="265" data-original-src="/web/image/265-fbbb1543/market.svg" data-mimetype-before-conversion="image/svg+xml" loading="lazy" style="width: 100% !important;" />
+							</div>
+							<div class="o_masonry_col o_snippet_not_selectable col-lg-1">
+								<img src="/web/image/268-201ba104/point-de-vente.svg" alt="" class="img img-fluid d-block o_we_custom_image img-thumbnail border-0" data-mimetype="image/svg+xml" data-original-id="268" data-original-src="/web/image/268-201ba104/point-de-vente.svg" data-mimetype-before-conversion="image/svg+xml" loading="lazy" style="width: 100% !important;" />
+							</div>
+							<div class="o_masonry_col o_snippet_not_selectable col-lg-1">
+								<img src="/web/image/267-f3b7d794/achat.svg" alt="" class="img img-fluid d-block o_we_custom_image img-thumbnail border-0" data-mimetype="image/svg+xml" data-original-id="267" data-original-src="/web/image/267-f3b7d794/achat.svg" data-mimetype-before-conversion="image/svg+xml" loading="lazy" style="width: 100% !important;" />
+							</div>
+							<div class="o_masonry_col o_snippet_not_selectable col-lg-1">
+								<img src="/web/image/266-dc868247/vente.svg" alt="" class="img img-fluid d-block o_we_custom_image img-thumbnail border-0" data-mimetype="image/svg+xml" data-original-id="266" data-original-src="/web/image/266-dc868247/vente.svg" data-mimetype-before-conversion="image/svg+xml" loading="lazy" style="width: 100% !important;" />
+							</div>
+							<div class="o_masonry_col o_snippet_not_selectable col-lg-1">
+								<img src="/web/image/270-588559fd/siteweb.svg" alt="" class="img img-fluid d-block o_we_custom_image img-thumbnail border-0" data-mimetype="image/svg+xml" data-original-id="270" data-original-src="/web/image/270-588559fd/siteweb.svg" data-mimetype-before-conversion="image/svg+xml" loading="lazy" style="width: 100% !important;" />
+							</div>
+							<div class="o_masonry_col o_snippet_not_selectable col-lg-1">
+								<img src="/web/image/269-156bcd18/email-marketing.svg" alt="" class="img img-fluid d-block o_we_custom_image img-thumbnail border-0" data-mimetype="image/svg+xml" data-original-id="269" data-original-src="/web/image/269-156bcd18/email-marketing.svg" data-mimetype-before-conversion="image/svg+xml" loading="lazy" style="width: 100% !important;" />
+							</div>
+							<div class="o_masonry_col o_snippet_not_selectable col-lg-1">
+								<img src="/web/image/270-588559fd/siteweb.svg" alt="" class="img img-fluid d-block o_we_custom_image img-thumbnail border-0" data-mimetype="image/svg+xml" data-original-id="270" data-original-src="/web/image/270-588559fd/siteweb.svg" data-mimetype-before-conversion="image/svg+xml" loading="lazy" style="width: 100% !important;" />
+							</div>
+							<div class="o_masonry_col o_snippet_not_selectable col-lg-1">
+								<img class="img img-fluid d-block o_we_custom_image img-thumbnail border-0" src="http://localhost:8011/web/image/271-e7216d34/inventaire.svg" data-index="1" alt="" data-name="Image" loading="lazy" data-mimetype="image/svg+xml" data-original-id="271" data-original-src="/web/image/271-e7216d34/inventaire.svg" data-mimetype-before-conversion="image/svg+xml" style="width: 100% !important;" />
+							</div>
+							<div class="o_masonry_col o_snippet_not_selectable col-lg-1">
+								<img class="img img-fluid o_we_custom_image mx-auto d-block img-thumbnail border-0" src="http://localhost:8011/web/image/272-11289194/project.svg" data-index="2" alt="" data-name="Image" data-mimetype="image/svg+xml" data-original-id="272" data-original-src="/web/image/272-11289194/project.svg" data-mimetype-before-conversion="image/svg+xml" loading="lazy" style="width: 100% !important;" />
+							</div>
+							<div class="o_masonry_col o_snippet_not_selectable col-lg-1">
+								<img class="img img-fluid d-block o_we_custom_image img-thumbnail border-0" src="http://localhost:8011/web/image/273-5a42e67a/feuille-de-temps.svg" data-index="3" alt="" data-name="Image" loading="lazy" data-mimetype="image/svg+xml" data-original-id="273" data-original-src="/web/image/273-5a42e67a/feuille-de-temps.svg" data-mimetype-before-conversion="image/svg+xml" style="width: 100% !important;" />
+							</div>
+							<div class="o_masonry_col o_snippet_not_selectable col-lg-1">
+								<img class="img img-fluid d-block o_we_custom_image img-thumbnail border-0" src="http://localhost:8011/web/image/274-20350522/facturation.png" data-index="4" alt="" data-name="Image" loading="lazy" data-mimetype="image/png" data-original-id="274" data-original-src="/web/image/274-20350522/facturation.png" data-mimetype-before-conversion="image/png" style="width: 100% !important;" />
+							</div>
+							<div class="o_masonry_col o_snippet_not_selectable col-lg-1">
+								<img class="img img-fluid d-block o_we_custom_image mb-0 img-thumbnail border-0" src="http://localhost:8011/web/image/268-201ba104/point-de-vente.svg" data-index="5" alt="" data-name="Image" style="width: 100% !important;" loading="lazy" data-mimetype="image/svg+xml" data-original-id="268" data-original-src="/web/image/268-201ba104/point-de-vente.svg" data-mimetype-before-conversion="image/svg+xml" />
+							</div>
+						</div>
+					</div>
+				</section>
+				<section class="s_numbers o_cc o_cc2 o_colored_level pb24 pt24" data-snippet="s_numbers" data-name="Numbers" style="background-image: none;">
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-3 text-center pt24 pb24 o_colored_level">
+								<span class="s_number display-4">
+									<span style="font-weight: bolder;">
+										<font class="text-o-color-1">
+											<b>
+												12
+											</b>
+										</font>
+									</span>
+								</span>
+								<h6 class="o_default_snippet_text">
+									Useful options
+								</h6>
+							</div>
+							<div class="col-lg-3 text-center pt24 pb24 o_colored_level">
+								<span class="s_number display-4">
+									<span style="font-weight: bolder;">
+										<font class="text-o-color-1">
+											<b>
+												45
+											</b>
+										</font>
+									</span>
+								</span>
+								<h6 class="o_default_snippet_text">
+									Beautiful snippets
+								</h6>
+							</div>
+							<div class="col-lg-3 text-center pt24 pb24 o_colored_level">
+								<span class="s_number display-4">
+									<span style="font-weight: bolder;">
+										<font class="text-o-color-1">
+											<b>
+												8
+											</b>
+										</font>
+									</span>
+								</span>
+								<h6 class="o_default_snippet_text">
+									Amazing pages
+								</h6>
+							</div>
+							<div class="col-lg-3 text-center pt24 pb24 o_colored_level">
+								<span class="s_number display-4">
+									<span style="font-weight: bolder;">
+										<font class="text-o-color-1">
+											<b>
+												37
+											</b>
+										</font>
+									</span>
+								</span>
+								<h6 class="o_default_snippet_text">
+									Outstanding images
+								</h6>
+							</div>
+						</div>
+					</div>
+				</section>
+				<section class="s_text_block pt40 pb40 o_colored_level" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+					<div class="container s_allow_columns">
+						<p class="o_default_snippet_text">
+							Great stories have a
+							<b class="o_default_snippet_text">
+								personality
+							</b>
+							. Consider telling a great story that provides personality. Writing a story with personality for potential clients will assist with making a relationship connection. This shows up in small quirks like word choices or phrases. Write from your point of view, not from someone else's experience.
+						</p>
+						<p class="o_default_snippet_text">
+							Great stories are
+							<b class="o_default_snippet_text">
+								for everyone
+							</b>
+							even when only written
+							<b class="o_default_snippet_text">
+								for just one person
+							</b>
+							. If you try to write with a wide, general audience in mind, your story will sound fake and lack emotion. No one will be interested. Write for one person. If it’s genuine for the one, it’s genuine for the rest.
+						</p>
+					</div>
+				</section>
+				<section class="s_three_columns o_cc o_cc2 pt32 pb32 o_colored_level" data-vcss="001" data-snippet="s_three_columns" data-name="Columns" style="background-image: none;">
+					<div class="container">
+						<div class="row d-flex align-items-stretch">
+							<div class="s_col_no_bgcolor pt16 pb16 col-lg-3">
+								<div class="card text-bg-white h-100">
+									<img src="/web/image/240-53ba2992/7053246.webp" alt="" class="card-img-top img img-fluid o_we_custom_image" data-mimetype="image/webp" data-original-id="237" data-original-src="/web/image/237-268bf259/7053246.jpg" data-mimetype-before-conversion="image/jpeg" data-resize-width="690" loading="lazy" />
+									<div class="card-body">
+										<h3 class="card-title o_default_snippet_text">
+											Feature One
+										</h3>
+										<p class="card-text o_default_snippet_text">
+											Adapt these three columns to fit your design need. To duplicate, delete or move columns, select the column and use the top icons to perform your action.
+										</p>
+									</div>
+								</div>
+							</div>
+							<div class="s_col_no_bgcolor pt16 pb16 col-lg-3">
+								<div class="card text-bg-white h-100">
+									<img src="/web/image/239-8cfb824a/maxresdefault.webp" alt="" class="card-img-top img img-fluid o_we_custom_image" data-mimetype="image/webp" data-original-id="234" data-original-src="/web/image/234-a4011140/maxresdefault.jpg" data-mimetype-before-conversion="image/jpeg" data-resize-width="690" loading="lazy" />
+									<div class="card-body">
+										<h3 class="card-title o_default_snippet_text">
+											Feature Two
+										</h3>
+										<p class="card-text o_default_snippet_text">
+											To add a fourth column, reduce the size of these three columns using the right icon of each block. Then, duplicate one of the columns to create a new one as a copy.
+										</p>
+									</div>
+								</div>
+							</div>
+							<div class="s_col_no_bgcolor pt16 pb16 col-lg-3">
+								<div class="card text-bg-white h-100">
+									<img src="/web/image/242-8cfb824a/maxresdefault.webp" alt="" class="card-img-top img img-fluid o_we_custom_image" data-mimetype="image/webp" data-original-id="234" data-original-src="/web/image/234-a4011140/maxresdefault.jpg" data-mimetype-before-conversion="image/jpeg" data-resize-width="690" loading="lazy" />
+									<div class="card-body">
+										<h3 class="card-title o_default_snippet_text">
+											Feature Three
+										</h3>
+										<p class="card-text o_default_snippet_text">
+											Delete the above image or replace it with a picture that illustrates your message. Click on the picture to change its
+											<em class="o_default_snippet_text">
+												rounded corner
+											</em>
+											style.
+										</p>
+									</div>
+								</div>
+							</div>
+							<div class="s_col_no_bgcolor pt16 pb16 col-lg-3">
+								<div class="card text-bg-white h-100">
+									<img src="/web/image/241-53ba2992/7053246.webp" alt="" class="card-img-top img img-fluid o_we_custom_image" data-mimetype="image/webp" data-original-id="237" data-original-src="/web/image/237-268bf259/7053246.jpg" data-mimetype-before-conversion="image/jpeg" data-resize-width="690" loading="lazy" />
+									<div class="card-body">
+										<h3 class="card-title o_default_snippet_text">
+											Feature Three
+										</h3>
+										<p class="card-text o_default_snippet_text">
+											Delete the above image or replace it with a picture that illustrates your message. Click on the picture to change its
+											<em class="o_default_snippet_text">
+												rounded corner
+											</em>
+											style.
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+			</div>
+		</t>
+	</template>
+</odoo>

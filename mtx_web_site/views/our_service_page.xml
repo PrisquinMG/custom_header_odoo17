@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+	<template id="our_service_page" name="Contact">
+		<t t-call="website.layout">
+			<div id="wrap" class="oe_structure oe_empty">
+				<section class="s_cover parallax s_parallax_is_fixed bg-black-50 pt96 pb96 o_colored_level" data-scroll-background-ratio="1" data-snippet="s_cover" data-name="Cover" style="background-image: none; position: relative;" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Wavy/28&quot;,&quot;colors&quot;:{&quot;c1&quot;:&quot;#4A1031&quot;,&quot;c3&quot;:&quot;#003163&quot;},&quot;flip&quot;:[],&quot;animated&quot;:&quot;true&quot;}">
+					<span class="s_parallax_bg oe_img_bg" style="background-image: url('/web/image/website.s_cover_default_image'); background-position: 50% 0;"/>
+					<div class="o_we_bg_filter bg-black-50"/>
+					<div class="o_we_shape o_web_editor_Wavy_28 o_we_animated" style="background-image: url(&quot;/web_editor/shape/web_editor%2FWavy%2F28.svg?c1=%234A1031&amp;c3=%23003163&quot;);"/>
+					<div class="s_allow_columns container">
+						<h1 style="text-align: left;">
+							<font style="font-size: 62px; font-weight: bold;">MTechniix,</font>
+						</h1>
+						<h1 style="text-align: left;">
+							<font style="font-size: 62px; font-weight: bold;">
+								<span style="font-size: 3.375rem">Soyez maître de votre avenir numérique.</span>
+							</font>
+						</h1>
+						<p class="lead" style="text-align: left;">Write one or two paragraphs describing your product, services or a specific feature.
+							<br/> To be successful your content needs to be useful to your readers.
+						</p>
+						<p style="text-align: left;">
+							<br/>
+							<a class="btn btn-primary mb-2" href="/contactus" data-bs-original-title="" title="">Découvrir nos services</a>
+						</p>
+					</div>
+				</section>
+				<section class="s_text_image pt32 pb32 o_colored_level" data-snippet="s_text_image" data-name="Text - Image" style="background-image: none; position: relative;" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Airy/03_001&quot;,&quot;flip&quot;:[&quot;y&quot;],&quot;animated&quot;:&quot;true&quot;}">
+					<div class="o_we_shape o_web_editor_Airy_03_001 o_we_animated" style="background-image: url(&quot;/web_editor/shape/web_editor%2FAiry%2F03_001.svg?c5=%23383E45&amp;flip=y&quot;); background-position: 50% 100%;"/>
+					<div class="container">
+						<div class="row align-items-start">
+							<div class="col-lg-6 pt16 pb16 o_colored_level">
+								<h2>
+									<font color="#003163">
+										<b>Présentation</b>
+									</font>
+									<strong>
+										<font class="text-o-color-1">&amp;nbsp;de l'entreprise</font>
+									</strong>
+								</h2>
+								<p>Fondée il y a quelques années, MTechniix a évolué pour devenir une référence dans le domaine de l'ERP Odoo, avec une histoire marquée par des succès significatifs et une croissance constante.</p>
+								<p>Depuis plus de 10 ans, nous avons été les pionniers de l'intégration et du développement Odoo, des créations de sites web et e-commerce exceptionnels, ainsi que la fourniture de solutions cloud et matériels de qualité.
+									<br/>
+								</p>
+								<p>
+									<a href="#" class="btn btn-primary mb-2 o_default_snippet_text">Learn more</a>
+								</p>
+							</div>
+							<div class="col-lg-6 pt16 pb16 o_colored_level rounded" style="border-radius: 10px !important;">
+								<img src="/web/image/775-f8beaab3/tim-van-der-kuip-CPs2X8JYmS8-unsplash.jpg" alt="" class="img img-fluid mx-auto o_we_custom_image" data-original-id="525" data-original-src="/web/image/525-719ba5cf/tim-van-der-kuip-CPs2X8JYmS8-unsplash.jpg" data-mimetype="image/jpeg" data-resize-width="690" loading="lazy" style=""/>
+							</div>
+						</div>
+					</div>
+				</section>
+				<section class="s_text_image pb32 o_colored_level pt24" data-snippet="s_text_image" data-name="Text - Image" style="background-image: none; position: relative;" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Origins/09_001&quot;,&quot;colors&quot;:{&quot;c3&quot;:&quot;#E9ECEF&quot;},&quot;flip&quot;:[&quot;x&quot;]}">
+					<div class="o_we_shape o_web_editor_Origins_09_001" style="background-image: url(&quot;/web_editor/shape/web_editor%2FOrigins%2F09_001.svg?c3=%23E9ECEF&amp;flip=x&quot;); background-position: 50% 0%;"/>
+					<div class="container">
+						<div class="row align-items-start">
+							<div class="col-lg-6 pt16 pb16 o_colored_level rounded" style="border-radius: 10px !important;">
+								<img src="/web/image/776-f8beaab3/tim-van-der-kuip-CPs2X8JYmS8-unsplash.jpg" alt="" class="img img-fluid mx-auto o_we_custom_image" data-original-id="525" data-original-src="/web/image/525-719ba5cf/tim-van-der-kuip-CPs2X8JYmS8-unsplash.jpg" data-mimetype="image/jpeg" data-resize-width="690" data-bs-original-title="" title="" aria-describedby="tooltip981345" loading="lazy" style=""/>
+							</div>
+							<div class="col-lg-6 pt16 pb16 o_colored_level">
+								<h2>
+									<font color="#003163">
+										<b>Nos engagement et nos missions</b>
+									</font>
+									<br/>
+								</h2>
+								<p>Depuis plus de 10 ans, nous avons été les pionniers de l'intégration et du développement Odoo, des créations de sites web et e-commerce exceptionnels, ainsi que la fourniture de solutions cloud et matériels de qualité.</p>
+								<p>Chez MTechniix, notre mission est claire : révolutionner la manière dont
+	 les entreprises opèrent numériquement. Nous nous engageons à fournir 
+	des solutions intégrées qui transcendent les attentes et favorisent la 
+	croissance de nos clients.
+									<br/>
+								</p>
+								<p>
+									<a href="#" class="btn btn-primary mb-2 o_default_snippet_text">Learn more</a>
+								</p>
+							</div>
+						</div>
+					</div>
+				</section>
+				<section class="s_text_block o_colored_level pb0 pt24" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+					<div class="s_allow_columns container">
+						<div class="s_allow_columns container">
+							<p>
+								<span class="o_animated_text o_animate o_anim_fade_in o_anim_from_bottom o_visible" style="">
+									<font style="">
+										<span class="o_animated_text o_animate o_anim_fade_in o_anim_from_bottom o_visible" style="">
+											<font color="#003163">
+												<span style="">
+													<b style="font-size: 36px;">Nos services</b>
+													<b style="font-size: 36px;">&amp;nbsp;</b>
+												</span>
+											</font>
+										</span>
+									</font>
+								</span>
+								<br/>
+							</p>
+							<p>
+								<span class="o_animated_text o_animate o_anim_fade_in o_anim_from_bottom o_visible" style="">Great stories have a 
+									
+									
+									<b class="o_default_snippet_text">personality</b>. Consider telling a great story that provides personality. Writing a story with personality for potential clients will assist with making a relationship connection. This shows up in small quirks like word choices or phrases. Write from your point of view, not from someone else's experience.
+								
+								</span>
+								<br/>
+							</p>
+						</div>
+						<p>&amp;nbsp;
+							<br/>
+						</p>
+					</div>
+				</section>
+				<section class="s_three_columns o_cc o_cc2 pt32 pb32 o_colored_level" data-vcss="001" data-snippet="s_three_columns" data-name="Columns" style="background-image: none;">
+					<div class="container">
+						<div class="row d-flex align-items-stretch">
+							<div class="s_col_no_bgcolor pt16 pb16 col-lg-3">
+								<div class="card text-bg-white h-100">
+									<img class="card-img-top" src="/web/image/website.s_three_columns_default_image_1" alt="" loading="lazy" data-original-id="342" data-original-src="/web/image/website.library_image_11" data-mimetype="image/jpeg" style=""/>
+									<div class="card-body">
+										<h3 class="card-title o_default_snippet_text">Feature One</h3>
+										<p class="card-text o_default_snippet_text">Adapt these three columns to fit your design need. To duplicate, delete or move columns, select the column and use the top icons to perform your action.</p>
+									</div>
+								</div>
+							</div>
+							<div class="s_col_no_bgcolor pt16 pb16 col-lg-3">
+								<div class="card text-bg-white h-100">
+									<img class="card-img-top" src="/web/image/website.s_three_columns_default_image_2" alt="" loading="lazy" data-original-id="343" data-original-src="/web/image/website.library_image_13" data-mimetype="image/jpeg" style=""/>
+									<div class="card-body">
+										<h3 class="card-title o_default_snippet_text">Feature Two</h3>
+										<p class="card-text o_default_snippet_text">To add a fourth column, reduce the size of these three columns using the right icon of each block. Then, duplicate one of the columns to create a new one as a copy.</p>
+									</div>
+								</div>
+							</div>
+							<div class="s_col_no_bgcolor pt16 pb16 col-lg-3">
+								<div class="card text-bg-white h-100">
+									<img class="card-img-top" src="/web/image/website.s_three_columns_default_image_3" alt="" loading="lazy" data-original-id="344" data-original-src="/web/image/website.library_image_07" data-mimetype="image/jpeg" style=""/>
+									<div class="card-body">
+										<h3 class="card-title o_default_snippet_text">Feature Three</h3>
+										<p class="card-text o_default_snippet_text">Delete the above image or replace it with a picture that illustrates your message. Click on the picture to change its 
+											<em class="o_default_snippet_text">rounded corner</em> style.
+										</p>
+									</div>
+								</div>
+							</div>
+							<div class="s_col_no_bgcolor pt16 pb16 col-lg-3">
+								<div class="card text-bg-white h-100">
+									<img class="card-img-top" src="/web/image/website.s_three_columns_default_image_3" alt="" loading="lazy" data-original-id="344" data-original-src="/web/image/website.library_image_07" data-mimetype="image/jpeg" style=""/>
+									<div class="card-body">
+										<h3 class="card-title o_default_snippet_text">Feature Three</h3>
+										<p class="card-text o_default_snippet_text">Delete the above image or replace it with a picture that illustrates your message. Click on the picture to change its 
+											<em class="o_default_snippet_text">rounded corner</em> style.
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+				<section class="s_text_block o_colored_level pt64 pb0" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+					<div class="container s_allow_columns">
+						<div class="s_allow_columns container">
+							<p>
+								<span class="o_animated_text o_animate o_anim_fade_in o_anim_from_bottom o_visible" style="">
+									<font style="">
+										<span class="o_animated_text o_animate o_anim_fade_in o_anim_from_bottom o_visible" style="">
+											<font color="#003163">
+												<span style="">
+													<b style="font-size: 36px;">Évolution de la société</b>&amp;nbsp;
+													<b style="font-size: 36px;">&amp;nbsp;</b>
+												</span>
+											</font>
+										</span>
+									</font>
+								</span>
+								<br/>
+							</p>
+							<p>
+								<span class="o_animated_text o_animate o_anim_fade_in o_anim_from_bottom o_visible" style="">Great stories have a 
+							
+								
+								
+								
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									<b class="o_default_snippet_text">personality</b>. Consider telling a great story that provides personality. Writing a story with personality for potential clients will assist with making a relationship connection. This shows up in small quirks like word choices or phrases. Write from your point of view, not from someone else's experience.
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								</span>
+								<br/>
+							</p>
+						</div>
+						<p class="o_default_snippet_text">
+							<br/>
+						</p>
+					</div>
+				</section>
+				<section class="s_timeline o_colored_level o_half_screen_height pb0 pt0" data-snippet="s_timeline" data-name="Timeline" style="background-image: none; position: relative;" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Zigs/01_001&quot;,&quot;colors&quot;:{&quot;c2&quot;:&quot;#003163&quot;},&quot;flip&quot;:[],&quot;animated&quot;:&quot;true&quot;}">
+					<div class="o_we_shape o_web_editor_Zigs_01_001 o_we_animated bg-white" style="background-image: url(&quot;/web_editor/shape/web_editor%2FZigs%2F01_001.svg?c2=%23003163&quot;);"/>
+					<div class="s_timeline_line container" style="border-color: rgb(53, 151, 156);">
+						<div class="s_timeline_row d-block d-md-flex flex-row" data-name="Row">
+							<div class="s_timeline_date">
+								<span class="bg-white">
+									<b>
+										<font style="color: rgb(165, 74, 123);">
+											<span class="o_animated_text o_anim_fade_in o_anim_from_bottom o_animate o_visible" style="">2024</span>
+										</font>
+									</b>
+								</span>
+							</div>
+							<div class="s_timeline_content d-flex">
+								<div class="s_timeline_card s_card card w-100" data-name="Card" data-snippet="s_card" style="background-color: rgb(165, 74, 123);">
+									<div class="card-body">
+										<h5 class="card-title">
+											<font style="color: rgb(74, 16, 49);">
+												<span class="o_animated_text o_anim_fade_in o_animate o_visible" style="">Your title</span>
+											</font>
+										</h5>
+										<p class="card-text">
+											<font style="color: rgb(74, 16, 49);">
+												<span class="o_animated_text o_anim_fade_in o_anim_from_left o_animate o_visible" style="">A timeline is a graphical representation on which important events are marked.</span>
+											</font>
+										</p>
+									</div>
+								</div>
+								<i class="fa fa-child s_timeline_icon text-o-color-3 rounded-circle fa-1x o_anim_fade_in o_anim_from_right o_animate o_visible" data-bs-original-title="" title="" aria-describedby="tooltip356033" style="background-color: rgb(198, 123, 165);"/>
+							</div>
+							<div class="s_timeline_content"/></div>
+						<div class="s_timeline_row d-block d-md-flex flex-row" data-name="Row">
+							<div class="s_timeline_date">
+								<span class="bg-white">
+									<b>
+										<font style="color: rgb(165, 74, 123);">
+											<span class="o_animated_text o_anim_fade_in o_anim_from_bottom o_animate o_visible" style="">2023</span>
+										</font>
+									</b>
+								</span>
+							</div>
+							<div class="s_timeline_content d-flex">
+								<div class="s_timeline_card s_card card w-100 bg-o-color-1" data-name="Card" data-snippet="s_card" style="">
+									<div class="card-body">
+										<p class="card-text">
+											<font class="text-o-color-1">
+												<span class="o_animated_text o_anim_fade_in o_anim_from_left o_animate o_visible" style="">You can edit, duplicate...</span>
+											</font>
+										</p>
+									</div>
+								</div>
+								<i class="fa fa-graduation-cap s_timeline_icon bg-o-color-1 o_anim_fade_in o_anim_from_right fa-1x rounded-circle o_animate o_visible" data-bs-original-title="" title="" aria-describedby="tooltip221460" style=""/>
+							</div>
+							<div class="s_timeline_content d-flex">
+								<i class="fa fa-asterisk rounded-circle s_timeline_icon text-o-color-3 o_anim_fade_in o_anim_from_left fa-1x o_animate o_visible" data-bs-original-title="" title="" aria-describedby="tooltip791698" style="background-color: rgb(255, 156, 0);"/>
+								<div class="s_timeline_card s_card card w-100" data-name="Card" data-snippet="s_card" style="background-color: rgb(255, 198, 156);">
+									<div class="card-body">
+										<p class="card-text">
+											<font style="color: rgb(255, 156, 0);">
+												<span class="o_animated_text o_anim_fade_in o_anim_from_right o_animate o_visible" style="">...and switch the timeline contents to fit your needs.</span>
+											</font>
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="s_timeline_row d-block d-md-flex flex-row-reverse" data-name="Row">
+							<div class="s_timeline_date">
+								<span class="bg-white">
+									<b>
+										<font style="color: rgb(115, 24, 66);">
+											<span class="o_animated_text o_anim_fade_in o_anim_from_bottom o_animate o_visible" style="">2022</span>
+										</font>
+									</b>
+								</span>
+							</div>
+							<div class="s_timeline_content d-flex">
+								<div class="s_timeline_card s_card card w-100" data-name="Card" data-snippet="s_card" style="background-color: rgb(57, 132, 198);">
+									<div class="card-body">
+										<p class="card-text">
+											<font style="color: rgb(57, 132, 198);">
+												<span class="o_animated_text o_anim_fade_in o_anim_from_right o_animate o_visible" style="">Use this timeline as a part of your resume, to show your visitors what you've done in the pLeast.</span>
+											</font>
+										</p>
+									</div>
+								</div>
+								<i class="fa fa-1x fa-bolt rounded-circle s_timeline_icon text-o-color-3 o_anim_fade_in o_anim_from_left o_animate o_visible" data-bs-original-title="" title="" aria-describedby="tooltip14876" style="background-color: rgb(107, 173, 222);"/>
+							</div>
+							<div class="s_timeline_content"/></div>
+						<div class="s_timeline_row d-block d-md-flex flex-row-reverse" data-name="Row">
+							<div class="s_timeline_date">
+								<span class="bg-white">
+									<b>
+										<font style="color: rgb(115, 24, 66);">
+											<span class="o_animated_text o_anim_fade_in o_anim_from_bottom o_animate o_visible" style="">2021</span>
+										</font>
+									</b>
+								</span>
+							</div>
+							<div class="s_timeline_content d-flex">
+								<div class="s_timeline_card s_card card w-100" data-name="Card" data-snippet="s_card" style="background-color: rgb(57, 132, 198);">
+									<div class="card-body">
+										<p class="card-text">
+											<font style="color: rgb(57, 132, 198);">
+												<span class="o_animated_text o_anim_fade_in o_anim_from_right o_animate o_visible" style="">Use this timeline as a part of your resume, to show your visitors what you've done in the pLeast.</span>
+											</font>
+										</p>
+									</div>
+								</div>
+								<i class="fa fa-1x fa-bolt rounded-circle s_timeline_icon text-o-color-3 o_anim_fade_in o_anim_from_left o_animate o_visible" data-bs-original-title="" title="" aria-describedby="tooltip14876" style="background-color: rgb(107, 173, 222);"/>
+							</div>
+							<div class="s_timeline_content"/></div>
+					</div>
+				</section>
+				<section class="s_numbers o_cc o_cc2 pt24 pb24 o_colored_level" data-snippet="s_numbers" data-name="Numbers" style="background-image: none;">
+					<div class="container">
+						<div class="row">
+							<div class="text-center pt24 pb24 o_colored_level o_anim_fade_in o_animate o_visible col-lg-3" style="">
+								<span class="s_number display-4">
+									<span style="font-weight: bolder;">
+										<span class="o_animated_text o_anim_fade_in o_animate o_visible" style="">
+											<font style="color: rgb(0, 49, 99);">
+												<strong>10</strong>
+											</font>
+										</span>
+									</span>
+								</span>
+								<h6>
+									<font style="color: rgb(0, 49, 99);">Ans d’expériences</font>
+								</h6>
+							</div>
+							<div class="text-center pt24 pb24 o_colored_level o_anim_fade_in o_animate o_visible col-lg-3" style="">
+								<span class="s_number display-4">
+									<span style="font-weight: bolder;">
+										<span class="o_animated_text o_anim_fade_in o_animate o_visible" style="">
+											<font style="color: rgb(0, 49, 99);">
+												<strong>45</strong>
+											</font>
+										</span>
+									</span>
+								</span>
+								<h6>
+									<font style="color: rgb(0, 49, 99);">Projets réaliser</font>
+									<br/>
+								</h6>
+							</div>
+							<div class="text-center pt24 pb24 o_colored_level o_anim_fade_in o_animate o_visible col-lg-3" style="">
+								<span class="s_number display-4">
+									<span style="font-weight: bolder;">
+										<span class="o_animated_text o_anim_fade_in o_animate o_visible" style="">
+											<font style="color: rgb(0, 49, 99);">
+												<strong>36</strong>
+											</font>
+										</span>
+									</span>
+								</span>
+								<h6>
+									<font style="color: rgb(0, 49, 99);">Partenaires et collaborateurs</font>
+									<br/>
+								</h6>
+							</div>
+							<div class="text-center pt24 pb24 o_colored_level o_anim_fade_in o_animate o_visible col-lg-3" style="">
+								<span class="s_number display-4">
+									<span style="font-weight: bolder;">
+										<span class="o_animated_text o_anim_fade_in o_animate o_visible" style="">
+											<font style="color: rgb(0, 49, 99);">
+												<strong>154</strong>
+											</font>
+										</span>
+									</span>
+								</span>
+								<h6>
+									<font style="color: rgb(0, 49, 99);">Clients satisfaits</font>
+									<br/>
+								</h6>
+							</div>
+						</div>
+					</div>
+				</section>
+				<section class="s_text_block o_colored_level pt64 pb0" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+					<div class="container s_allow_columns">
+						<div class="s_allow_columns container">
+							<p>
+								<span class="o_animated_text o_animate o_anim_fade_in o_anim_from_bottom o_visible" style="">
+									<font style="">
+										<span class="o_animated_text o_animate o_anim_fade_in o_anim_from_bottom o_visible" style="">
+											<font color="#003163">
+												<span style="">
+													<b style="font-size: 36px;">CEO Founder et Nos </b>
+													<span style="font-size: 36px;">
+														<b>équipes</b>
+													</span>
+													<b style="font-size: 36px;">&amp;nbsp;</b>
+												</span>
+											</font>
+										</span>
+									</font>
+								</span>
+								<br/>
+							</p>
+							<p>
+								<span class="o_animated_text o_animate o_anim_fade_in o_anim_from_bottom o_visible" style="">Great stories have a 
+							
+								
+								
+								
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									<b class="o_default_snippet_text">personality</b>. Consider telling a great story that provides personality. Writing a story with personality for potential clients will assist with making a relationship connection. This shows up in small quirks like word choices or phrases. Write from your point of view, not from someone else's experience.
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								</span>
+								<br/>
+							</p>
+						</div>
+						<p class="o_default_snippet_text">
+							<br/>
+						</p>
+					</div>
+				</section>
+				<section class="s_company_team o_colored_level pt0 o_half_screen_height pb80" data-snippet="s_company_team" data-name="Team" style="position: relative; background-image: none;" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Floats/05&quot;,&quot;colors&quot;:{&quot;c1&quot;:&quot;#003163&quot;,&quot;c2&quot;:&quot;#003163&quot;,&quot;c3&quot;:&quot;#F6F6F6&quot;,&quot;c5&quot;:&quot;#383E45&quot;},&quot;flip&quot;:[],&quot;animated&quot;:&quot;true&quot;}">
+					<div class="o_we_shape o_web_editor_Floats_05 o_we_animated" style="background-image: url(&quot;/web_editor/shape/web_editor%2FFloats%2F05.svg?c1=%23003163&amp;c2=%23003163&amp;c3=%23F6F6F6&amp;c5=%23383E45&quot;);"/>
+					<div class="container">
+						<div class="row s_nb_column_fixed" style="">
+							<div class="o_colored_level col-lg-6 o_anim_fade_in o_animate o_anim_from_left o_visible" style="">
+								<div class="row s_col_no_resize s_col_no_bgcolor">
+									<div class="col-lg-4 pb16 o_not_editable">
+										<img alt="" src="http://localhost:8016/web/image/website.s_company_team_image_1" class="img-fluid mx-auto o_editable_media rounded-circle" data-original-id="357" data-original-src="/website/static/src/img/snippets_demo/s_team_member_1.png" data-mimetype="image/png" style="" loading="eager"/>
+									</div>
+									<div class="col-lg-8">
+										<h4>
+											<strong>
+												<font style="color: rgb(0, 49, 99);">Tony Fred, CEO</font>
+											</strong>
+										</h4>
+										<p>
+											<font class="text-600">Founder and chief visionary, Tony is the driving force behind the company. He loves
+									to keep his hands full by participating in the development of the software,
+									marketing, and customer experience strategies.</font>
+										</p>
+									</div>
+								</div>
+							</div>
+							<div class="o_colored_level col-lg-6 o_anim_fade_in o_animate o_anim_from_right o_visible" style="">
+								<div class="row s_col_no_resize s_col_no_bgcolor">
+									<div class="col-lg-4 pb16 o_not_editable">
+										<img alt="" src="http://localhost:8016/web/image/website.s_company_team_image_2" class="img-fluid rounded-circle mx-auto o_editable_media" loading="eager" data-original-id="358" data-original-src="/website/static/src/img/snippets_demo/s_team_member_2.png" data-mimetype="image/png" style=""/>
+									</div>
+									<div class="col-lg-8">
+										<h4>
+											<strong>
+												<font style="color: rgb(0, 49, 99);">Mich Stark, COO</font>
+											</strong>
+										</h4>
+										<p>
+											<font class="text-600">Mich loves taking on challenges. With his multi-year experience as Commercial Director in the software industry, Mich has helped the company to get where it is today. Mich is among the best minds.</font>
+										</p>
+									</div>
+								</div>
+							</div>
+							<div class="o_colored_level col-lg-6 o_anim_fade_in o_animate o_anim_from_left o_visible" style="">
+								<div class="row s_col_no_resize s_col_no_bgcolor">
+									<div class="col-lg-4 pb16 o_not_editable">
+										<img alt="" src="http://localhost:8016/web/image/website.s_company_team_image_3" class="img-fluid rounded-circle mx-auto o_editable_media" loading="eager" data-original-id="359" data-original-src="/website/static/src/img/snippets_demo/s_team_member_3.png" data-mimetype="image/png" style=""/>
+									</div>
+									<div class="col-lg-8">
+										<h4>
+											<strong>
+												<font style="color: rgb(0, 49, 99);">Aline Turner, CTO</font>
+											</strong>
+										</h4>
+										<p>
+											<font class="text-600">Aline is one of the iconic people in life who can say they love what they do. She mentors 100+ in-house developers and looks after the community of thousands of developers.</font>
+										</p>
+									</div>
+								</div>
+							</div>
+							<div class="o_colored_level col-lg-6 o_anim_fade_in o_animate o_anim_from_right o_visible" style="">
+								<div class="row s_col_no_resize s_col_no_bgcolor">
+									<div class="col-lg-4 pb16 o_not_editable">
+										<img alt="" src="http://localhost:8016/web/image/website.s_company_team_image_4" class="img-fluid rounded-circle mx-auto o_editable_media" loading="eager" data-original-id="360" data-original-src="/website/static/src/img/snippets_demo/s_team_member_4.png" data-mimetype="image/png" style=""/>
+									</div>
+									<div class="col-lg-8">
+										<h4>
+											<strong>
+												<font style="color: rgb(0, 49, 99);">Iris Joe, CFO</font>
+											</strong>
+										</h4>
+										<p>
+											<font class="text-600">Iris, with her international experience, helps us easily understand the numbers and improves them. She is determined to drive success and delivers her professional acumen to bring the company to the next level.</font>
+										</p>
+									</div>
+								</div>
+							</div>
+							<div class="o_colored_level col-lg-6 o_anim_fade_in o_animate o_anim_from_left o_visible" style="">
+								<div class="row s_col_no_resize s_col_no_bgcolor">
+									<div class="col-lg-4 pb16 o_not_editable">
+										<img alt="" src="http://localhost:8016/web/image/website.s_company_team_image_1" class="img-fluid mx-auto o_editable_media rounded-circle" data-original-id="357" data-original-src="/website/static/src/img/snippets_demo/s_team_member_1.png" data-mimetype="image/png" style="" loading="eager"/>
+									</div>
+									<div class="col-lg-8">
+										<h4>
+											<strong>
+												<font style="color: rgb(0, 49, 99);">Tony Fred, CEO</font>
+											</strong>
+										</h4>
+										<p>
+											<font class="text-600">Founder and chief visionary, Tony is the driving force behind the company. He loves
+									to keep his hands full by participating in the development of the software,
+									marketing, and customer experience strategies.</font>
+										</p>
+									</div>
+								</div>
+							</div>
+							<div class="o_colored_level col-lg-6 o_anim_fade_in o_animate o_anim_from_right o_visible" style="">
+								<div class="row s_col_no_resize s_col_no_bgcolor">
+									<div class="col-lg-4 pb16 o_not_editable">
+										<img alt="" src="http://localhost:8016/web/image/website.s_company_team_image_2" class="img-fluid rounded-circle mx-auto o_editable_media" loading="eager" data-original-id="358" data-original-src="/website/static/src/img/snippets_demo/s_team_member_2.png" data-mimetype="image/png" style=""/>
+									</div>
+									<div class="col-lg-8">
+										<h4>
+											<strong>
+												<font style="color: rgb(0, 49, 99);">Mich Stark, COO</font>
+											</strong>
+										</h4>
+										<p>
+											<font class="text-600">Mich loves taking on challenges. With his multi-year experience as Commercial Director in the software industry, Mich has helped the company to get where it is today. Mich is among the best minds.</font>
+										</p>
+									</div>
+								</div>
+							</div>
+							<div class="o_colored_level col-lg-6 o_anim_fade_in o_animate o_anim_from_left o_visible" style="">
+								<div class="row s_col_no_resize s_col_no_bgcolor">
+									<div class="col-lg-4 pb16 o_not_editable">
+										<img alt="" src="http://localhost:8016/web/image/website.s_company_team_image_3" class="img-fluid rounded-circle mx-auto o_editable_media" loading="eager" data-original-id="359" data-original-src="/website/static/src/img/snippets_demo/s_team_member_3.png" data-mimetype="image/png" style=""/>
+									</div>
+									<div class="col-lg-8">
+										<h4>
+											<strong>
+												<font style="color: rgb(0, 49, 99);">Aline Turner, CTO</font>
+											</strong>
+										</h4>
+										<p>
+											<font class="text-600">Aline is one of the iconic people in life who can say they love what they do. She mentors 100+ in-house developers and looks after the community of thousands of developers.</font>
+										</p>
+									</div>
+								</div>
+							</div>
+							<div class="o_colored_level col-lg-6 o_anim_fade_in o_animate o_anim_from_right o_visible" style="">
+								<div class="row s_col_no_resize s_col_no_bgcolor">
+									<div class="col-lg-4 pb16 o_not_editable">
+										<img alt="" src="http://localhost:8016/web/image/website.s_company_team_image_4" class="img-fluid rounded-circle mx-auto o_editable_media" loading="eager" data-original-id="360" data-original-src="/website/static/src/img/snippets_demo/s_team_member_4.png" data-mimetype="image/png" style=""/>
+									</div>
+									<div class="col-lg-8">
+										<h4>
+											<strong>
+												<font style="color: rgb(0, 49, 99);">Iris Joe, CFO</font>
+											</strong>
+										</h4>
+										<p>
+											<font class="text-600">Iris, with her international experience, helps us easily understand the numbers and improves them. She is determined to drive success and delivers her professional acumen to bring the company to the next level.</font>
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+				<section class="s_text_block pt40 pb40 o_colored_level" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+					<div class="s_allow_columns container">
+						<p>
+							<strong>
+								<span style="font-size: 36px;">
+									<font style="color: rgb(0, 49, 99);">
+										<span class="o_animated_text o_animate o_anim_fade_in o_anim_from_bottom o_visible" style="">Avis de satisfactions</span>
+									</font>
+								</span>
+							</strong>
+							<br/>
+						</p>
+						<p>
+							<span class="o_animated_text o_animate o_anim_fade_in o_anim_from_bottom o_visible" style="">Great stories have a 
+							
+							
+							
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								<b class="o_default_snippet_text">personality</b>. Consider telling a great story that provides personality. Writing a story with personality for potential clients will assist with making a relationship connection. This shows up in small quirks like word choices or phrases. Write from your point of view, not from someone else's experience.
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							</span>
+						</p>
+					</div>
+				</section>
+				<section class="s_quotes_carousel_wrapper o_colored_level" data-vxml="001" data-vcss="001" data-snippet="s_quotes_carousel" data-name="Quotes" style="background-image: none;">
+					<div class="s_quotes_carousel s_carousel_default carousel slide o_cc o_cc2" data-bs-interval="10000" id="myCarousel1704549022652" style="background-image: none; position: relative;" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Rainy/06&quot;,&quot;colors&quot;:{&quot;c1&quot;:&quot;#003163&quot;,&quot;c2&quot;:&quot;#003163&quot;,&quot;c3&quot;:&quot;#F6F6F6&quot;},&quot;flip&quot;:[]}">
+						<div class="o_we_shape o_web_editor_Rainy_06" style="background-image: url(&quot;/web_editor/shape/web_editor%2FRainy%2F06.svg?c1=%23003163&amp;c2=%23003163&amp;c3=%23F6F6F6&quot;);"/>
+						<ol class="carousel-indicators o_we_no_overlay">
+							<li data-bs-slide-to="0" data-bs-target="#myCarousel1704549022652" class="active" aria-current="true"/>
+							<li data-bs-slide-to="1" data-bs-target="#myCarousel1704549022652"/>
+							<li data-bs-slide-to="2" data-bs-target="#myCarousel1704549022652"/>
+						</ol>
+						<div class="carousel-inner">
+							<div class="carousel-item pt80 pb80 o_colored_level oe_img_bg o_bg_img_center active" style="background-image: url(&quot;/web/image/website.s_quotes_carousel_demo_image_0&quot;); background-position: 50% 50%;" data-name="Slide">
+								<div class="container">
+									<blockquote class="s_blockquote s_blockquote_classic blockquote mx-auto w-50" data-name="Blockquote">
+										<i class="fa fa-1x fa-quote-left rounded float-start s_blockquote_icon text-o-color-3" data-bs-original-title="" title="" aria-describedby="tooltip992094" style="background-color: rgb(0, 49, 99);"/>
+										<div class="s_blockquote_content o_cc1" style="background-image: none;">
+											<p class="o_default_snippet_text">Write a quote here from one of your customers. Quotes are a great way to build confidence in your products or services.</p>
+											<footer class="blockquote-footer">
+												<img src="/web/image/website.s_quotes_carousel_demo_image_3" class="s_blockquote_avatar img rounded-circle me-2" alt="" loading="lazy" data-original-id="337" data-original-src="/website/static/src/img/snippets_demo/s_team_member_3.png" data-mimetype="image/png" style=""/>
+												<span class="s_blockquote_author o_default_snippet_text">
+													<b class="o_default_snippet_text">Jane DOE</b> • CEO of MyCompany
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												</span>
+											</footer>
+										</div>
+									</blockquote>
+								</div>
+							</div>
+							<div class="carousel-item pb80 o_colored_level oe_img_bg o_bg_img_center pt72" style="background-image: url(&quot;/web/image/529-6e5aa3fd/austin-distel-mpN7xjKQ_Ns-unsplash.jpg&quot;); background-position: 50% 50%;" data-name="Slide" data-original-id="521" data-original-src="/web/image/521-3e013c49/austin-distel-mpN7xjKQ_Ns-unsplash.jpg" data-mimetype="image/jpeg" data-resize-width="1920">
+								<div class="container">
+									<blockquote class="s_blockquote s_blockquote_classic blockquote me-auto w-50" data-name="Blockquote">
+										<i class="fa fa-1x fa-quote-left rounded float-start bg-o-color-2 s_blockquote_icon" data-bs-original-title="" title="" aria-describedby="tooltip239500"/>
+										<div class="s_blockquote_content o_cc1" style="background-image: none;">
+											<p class="o_default_snippet_text">Write a quote here from one of your customers. Quotes are a great way to build confidence in your products or services.</p>
+											<footer class="blockquote-footer">
+												<img src="/web/image/website.s_quotes_carousel_demo_image_4" class="s_blockquote_avatar img rounded-circle me-2" alt="" loading="lazy" data-original-id="338" data-original-src="/website/static/src/img/snippets_demo/s_team_member_2.png" data-mimetype="image/png" style=""/>
+												<span class="s_blockquote_author o_default_snippet_text">
+													<b class="o_default_snippet_text">John DOE</b> • CEO of MyCompany
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												</span>
+											</footer>
+										</div>
+									</blockquote>
+								</div>
+							</div>
+							<div class="carousel-item pt80 pb80 o_colored_level oe_img_bg o_bg_img_center" style="background-image: url(&quot;/web/image/530-62a1edf7/wallpaperflare.com_wallpaper.jpg&quot;); background-position: 50% 50%;" data-name="Slide" data-original-id="524" data-original-src="/web/image/524-cb79e6be/wallpaperflare.com_wallpaper.jpg" data-mimetype="image/jpeg" data-resize-width="1920">
+								<div class="container">
+									<blockquote class="s_blockquote s_blockquote_classic blockquote ms-auto w-50" data-name="Blockquote">
+										<i class="fa fa-1x fa-quote-left rounded float-start s_blockquote_icon bg-o-color-1" data-bs-original-title="" title="" aria-describedby="tooltip614380"/>
+										<div class="s_blockquote_content o_cc1" style="background-image: none;">
+											<p class="o_default_snippet_text">Write a quote here from one of your customers. Quotes are a great way to build confidence in your products or services.</p>
+											<footer class="blockquote-footer">
+												<img src="/web/image/website.s_quotes_carousel_demo_image_5" class="s_blockquote_avatar img rounded-circle me-2" alt="" loading="lazy" data-original-id="339" data-original-src="/website/static/src/img/snippets_demo/s_team_member_4.png" data-mimetype="image/png" style=""/>
+												<span class="s_blockquote_author o_default_snippet_text">
+													<b class="o_default_snippet_text">Iris DOE</b> • CEO of MyCompany
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												</span>
+											</footer>
+										</div>
+									</blockquote>
+								</div>
+							</div>
+						</div>
+						<div class="carousel-control-prev o_not_editable o_we_no_overlay" data-bs-slide="prev" role="img" aria-label="Previous" title="Previous" data-bs-target="#myCarousel1704549022652">
+							<span class="carousel-control-prev-icon"/>
+							<span class="visually-hidden o_default_snippet_text">Previous</span>
+						</div>
+						<div class="carousel-control-next o_not_editable o_we_no_overlay" data-bs-slide="next" role="img" aria-label="Next" title="Next" data-bs-target="#myCarousel1704549022652">
+							<span class="carousel-control-next-icon"/>
+							<span class="visually-hidden o_default_snippet_text">Next</span>
+						</div>
+					</div>
+				</section>
+				<section class="s_text_block o_colored_level pt64 pb32" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+					<div class="container s_allow_columns">
+						<p>
+							<strong>
+								<span style="font-size: 36px;">
+									<font style="color: rgb(0, 49, 99);">
+										<span class="o_animated_text o_animate o_anim_fade_in o_anim_from_bottom o_visible" style="">Contactez-nous</span>
+									</font>
+								</span>
+							</strong>
+						</p>
+						<p>
+							<span class="o_animated_text o_animate o_anim_fade_in o_anim_from_bottom o_visible" style="">Great stories have a 
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								<b class="o_default_snippet_text">personality</b>. Consider telling a great story that provides personality. Writing a story with personality for potential clients will assist with making a relationship connection. This shows up in small quirks like word choices or phrases. Write from your point of view, not from someone else's experience.
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							</span>
+						</p>
+					</div>
+				</section>
+				<section class="s_website_form o_colored_level pb88 pt0" data-vcss="001" data-snippet="s_website_form" data-name="Form" style="background-image: none;">
+					<div class="container">
+						<form action="/website/form/" method="post" enctype="multipart/form-data" class="o_mark_required" data-mark="*" data-pre-fill="true" data-success-mode="redirect" data-success-page="/contactus-thank-you" data-model_name="mail.mail">
+							<div class="s_website_form_rows row s_col_no_bgcolor">
+								<div class="s_website_form_field mb-3 col-12 s_website_form_custom s_website_form_required o_anim_fade_in o_animate o_visible" data-type="char" data-name="Field" data-visibility-condition="" data-visibility-between="" style="">
+									<div class="row s_col_no_resize s_col_no_bgcolor">
+										<label class="col-form-label col-sm-auto s_website_form_label" style="width: 200px" for="omsmdn5lq34">
+											<span class="s_website_form_label_content">Your Name</span>
+											<span class="s_website_form_mark"> *</span>
+										</label>
+										<div class="col-sm">
+											<input type="text" class="form-control s_website_form_input" name="name" required="1" data-fill-with="name" id="omsmdn5lq34"/>
+										</div>
+									</div>
+								</div>
+								<div class="s_website_form_field mb-3 col-12 s_website_form_custom" data-type="tel" data-name="Field">
+									<div class="row s_col_no_resize s_col_no_bgcolor">
+										<label class="col-form-label col-sm-auto s_website_form_label " style="width: 200px" for="o7u0ozhk620t">
+											<span class="s_website_form_label_content">Phone Number</span>
+										</label>
+										<div class="col-sm">
+											<input type="tel" class="form-control s_website_form_input" name="phone" data-fill-with="phone" id="o7u0ozhk620t"/>
+										</div>
+									</div>
+								</div>
+								<div class="s_website_form_field mb-3 col-12 s_website_form_model_required" data-type="email" data-name="Field" data-visibility-condition="" data-visibility-between="">
+									<div class="row s_col_no_resize s_col_no_bgcolor">
+										<label class="col-form-label col-sm-auto s_website_form_label " style="width: 200px" for="o50wh66zam5d">
+											<span class="s_website_form_label_content">Your Email</span>
+											<span class="s_website_form_mark"> *</span>
+										</label>
+										<div class="col-sm">
+											<input type="email" class="form-control s_website_form_input" name="email_from" required="true" data-fill-with="email" id="o50wh66zam5d"/>
+										</div>
+									</div>
+								</div>
+								<div class="s_website_form_field mb-3 col-12 s_website_form_custom" data-type="char" data-name="Field">
+									<div class="row s_col_no_resize s_col_no_bgcolor">
+										<label class="col-form-label col-sm-auto s_website_form_label " style="width: 200px" for="ogky0g44lwz">
+											<span class="s_website_form_label_content">Your Company</span>
+										</label>
+										<div class="col-sm">
+											<input type="text" class="form-control s_website_form_input" name="company" data-fill-with="commercial_company_name" id="ogky0g44lwz"/>
+										</div>
+									</div>
+								</div>
+								<div class="s_website_form_field mb-3 col-12 s_website_form_model_required" data-type="char" data-name="Field">
+									<div class="row s_col_no_resize s_col_no_bgcolor">
+										<label class="col-form-label col-sm-auto s_website_form_label " style="width: 200px" for="o586r63kxpbu">
+											<span class="s_website_form_label_content">Subject</span>
+											<span class="s_website_form_mark"> *</span>
+										</label>
+										<div class="col-sm">
+											<input type="text" class="form-control s_website_form_input" name="subject" required="true" id="o586r63kxpbu"/>
+										</div>
+									</div>
+								</div>
+								<div class="s_website_form_field mb-3 col-12 s_website_form_custom s_website_form_required" data-type="text" data-name="Field">
+									<div class="row s_col_no_resize s_col_no_bgcolor">
+										<label class="col-form-label col-sm-auto s_website_form_label " style="width: 200px" for="oql6dx3a45aa">
+											<span class="s_website_form_label_content">Your Question</span>
+											<span class="s_website_form_mark"> *</span>
+										</label>
+										<div class="col-sm">
+											<textarea class="form-control s_website_form_input" name="description" required="1" id="oql6dx3a45aa" rows="3"/>
+										</div>
+									</div>
+								</div>
+								<div class="s_website_form_field mb-3 col-12    s_website_form_dnone" data-name="Field">
+									<div class="row s_col_no_resize s_col_no_bgcolor">
+										<label class="col-form-label col-sm-auto s_website_form_label " style="width: 200px">
+											<span class="s_website_form_label_content"/>
+										</label>
+										<div class="col-sm">
+											<input type="hidden" class="form-control s_website_form_input" name="email_to" value="info@yourcompany.example.com"/>
+											<div class="s_website_form_field_description small form-text text-muted">
+				Separate email addresses with a comma.
+			</div>
+										</div>
+									</div>
+								</div>
+								<div class="mb-0 py-2 col-12 s_website_form_submit" data-name="Submit Button">
+									<div style="width: 200px;" class="s_website_form_label"/>
+									<a href="#" role="button" class="btn btn-primary btn-lg s_website_form_send" data-bs-original-title="" title="">Envoyer le message</a>
+									<span id="s_website_form_result" class="text-danger ml8"/>
+									<br/>
+								</div>
+							</div>
+						</form>
+					</div>
+				</section>
+				<section class="s_call_to_action pt48 pb24 o_colored_level o_cc o_cc4" data-snippet="s_call_to_action" data-name="Call to Action" style="position: relative; background-color: rgb(74, 16, 49); background-image: none;" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Rainy/01_001&quot;,&quot;colors&quot;:{&quot;c1&quot;:&quot;#003163&quot;,&quot;c5&quot;:&quot;#003163&quot;},&quot;flip&quot;:[],&quot;animated&quot;:&quot;true&quot;}">
+					<div class="o_we_shape o_web_editor_Rainy_01_001 o_we_animated" style="background-image: url(&quot;/web_editor/shape/web_editor%2FRainy%2F01_001.svg?c1=%23003163&amp;c5=%23003163&quot;);"/>
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-9 pb16 o_colored_level">
+								<h3 class="o_default_snippet_text">
+									<b class="o_default_snippet_text">50,000+ companies</b> run Odoo to grow their businesses.
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								</h3>
+								<p class="o_default_snippet_text">Join us and make your company a better place.</p>
+							</div>
+							<div class="col-lg-3 pt8 o_colored_level">
+								<p style="text-align: right;">
+									<a class="mb-2 btn btn-secondary btn-lg" href="/contactus" data-bs-original-title="" title="">Contactez-nous</a>
+									<br/>
+								</p>
+							</div>
+						</div>
+					</div>
+				</section>
+				<div class="col-lg-3 pt8 o_colored_level" style="position: fixed; right: 30px; bottom: 10px">
+					<p style="text-align: right;">
+						<a href="javascript:void(0)" class="mb-2 btn btn-outline-secondary btn-lg">
+							<span>
+								<svg
+									xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-chevron-double-up" viewbox="0 0 16 16">
+									<path fill-rule="evenodd" d="M7.646 2.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1-.708.708L8 3.707 2.354 9.354a.5.5 0 1 1-.708-.708z"/>
+									<path fill-rule="evenodd" d="M7.646 6.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1-.708.708L8 7.707l-5.646 5.647a.5.5 0 0 1-.708-.708z"/>
+								</svg>
+							</span>
+						</a>
+						<br/>
+					</p>
+				</div>
+			</div>
+	
+		</t>
+	</template>
+</odoo>
